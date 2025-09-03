@@ -23,11 +23,10 @@ O operador é um funcionário operacional (25 a 50 anos), ensino médio ou técn
 
 ### Outras personas (secundárias)
 - Público de passageiros do Metrô.
+- Outros funcionários do Metrô (seguranças, operadores de bilheteria, time de manutenção, etc).
 
 <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/20c84986-0f71-4212-b943-c7a4fa22dd11" />
 <br>
-- Outros funcionários do Metrô (seguranças, operadores de bilheteria, time de manutenção, etc).
-
 <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/fd87f5db-1cc5-4d66-a3c6-a64961c40ad0" />
 
 # Mapa de empatia
