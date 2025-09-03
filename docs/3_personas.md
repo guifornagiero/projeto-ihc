@@ -14,12 +14,12 @@ O Administrador é um profissional de nível gerencial, com idade entre 35 e 55 
 ### Analista de dados do Metrô
 O analista de dados é um profissional técnico (25 a 40 anos), com formação em estatística, ciência de dados ou TI. Trabalha diretamente com os dados gerados pelo sistema, transformando-os em relatórios e insights para a administração e seus superiores. Ele geralmente é de classe média, com perfil altamente analítico e rotina voltada ao uso de ferramentas digitais para análise de dados. Acostumado a lidar com grandes volumes de informação e preocupado com a precisão e clareza dos dados. No sistema, ele foca mais na parte técnica da tela de Dashboards, como exportar dados, gerar dashboards personalizáveis, acompanhar indicadores em tempo real e elaborar relatórios que criam motivo para tomadas de decisões estratégicas e operacionais. Seus dados que precisam ser armazenados: credenciais de login no sistema, configurações de relatórios/dashboards e logs de acesso e atividades de análise realizadas.
 
-<img width="128" height="72" alt="image" src="https://github.com/user-attachments/assets/572b9fa1-1e49-414e-b874-8b8397962201" />
+<img width="250" height="140" alt="image" src="https://github.com/user-attachments/assets/572b9fa1-1e49-414e-b874-8b8397962201" />
 
 ### Operador de câmeras do Metrô
 O operador é um funcionário operacional (25 a 50 anos), ensino médio ou técnico, responsável por monitorar em tempo real as imagens capturadas nas estações. Atua na linha de frente da segurança, interagindo diretamente com o sistema de vigilância. É geralmente de classe baixa, com forte pressão do ambiente de trabalho (grande volume de pessoas, situações de risco, necessidade de atenção constante e alta cobrança de seus superiores). Seu principal trabalho com o sistema é acompanhar a interface de câmeras em tempo real, além de inicializá-las no início do dia. Dados a serem salvos: credenciais de login, logs de monitoramento e ações no sistema e registro de câmeras configuradas sob sua responsabilidade.
 
-<img width="64" height="43" alt="image" src="https://github.com/user-attachments/assets/21bdccd8-26e3-4f6d-96bf-b4c0e2e2d1a3" />
+<img width="190" height="120" alt="image" src="https://github.com/user-attachments/assets/21bdccd8-26e3-4f6d-96bf-b4c0e2e2d1a3" />
 
 ### Outras personas (secundárias)
 - Público de passageiros do Metrô.
