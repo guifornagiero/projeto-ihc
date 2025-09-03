@@ -49,12 +49,11 @@ Antes de iniciar a interação, o sistema precisa guardar informações cruciais
 
 # Jornada do usuário
 
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
-
-
-
+José chega cedo ao centro de controle do Metrô de São Paulo. Ele é operador há alguns anos e já conhece bem a rotina, mas desde que o novo sistema de monitoramento foi implantado, seu trabalho ficou mais ágil e organizado. Assim que se acomoda em sua estação de trabalho, José liga o computador, abre o navegador e acessa o sistema. Digita seu e-mail e senha, confirmando o login. Em poucos segundos, a tela inicial aparece, mostrando as opções disponíveis. Ele sente uma sensação de segurança: sabe que todo o seu trabalho ficará registrado e poderá ser consultado depois.
+A primeira tarefa de José é monitorar as câmeras. Ele acessa a interface de câmeras e abre o menu dropdown. Escolhe a câmera da entrada principal da estação e clica em “inicializar câmera”. Ao incializar, a câmera liga e começa a capturar as pessoas que ali passam. Em seguida, repete o processo com as demais, garantindo que cada ponto crítico esteja ativo. Ao ver as imagens em tempo real, José se concentra, atento a qualquer movimento fora do normal.
+Com as câmeras em funcionamento, José decide verificar como foi o dia anterior. Ele navega até a tela de dashboard, onde os gráficos já começam a ser gerados automaticamente. Ajusta os filtros para visualizar o fluxo de passageiros do último dia e observa os picos de movimento, dentro da estação em que trabalha e entre as estações do Metrô de São Paulo. Em seguida, gera um gráfico detalhado e exporta um relatório em PDF, que seu computador faz download automaticamente. Esse documento será enviado mais tarde para a equipe de gestão, que usa as informações para tomar decisões sobre alocação de trens e pessoal.
+Pouco depois, José recebe um aviso interno: uma das câmeras da linha azul, a câmera X, foi reposicionada após manutenção. Ele acessa a tela de configuração, localiza a câmera no sistema e atualiza os dados — ajusta a identificação e salva a alteração. Agora o sistema reflete a nova disposição física da estação, dando um aviso para José que sua ação foi bem sucedida.
+Para finalizar sua rotina, José acessa a tela de histórico. Ali, encontra o registro completo de suas ações: o horário em que fez login, as câmeras que inicializou, o relatório que gerou e a configuração que alterou. Isso lhe dá tranquilidade, pois sabe que, se alguém precisar conferir, haverá um rastro claro e organizado de tudo que foi feito, e que seus superiores terão controle do seu trabalho no dia.
+Antes de encerrar o turno, José desliga as câmeras na página de Inteface de câmera, encerrando a captura de imagem, fecha o sistema e faz logout. Ele se levanta satisfeito, certo de que cumpriu seu papel: monitorar, analisar e registrar.
 
 [1] Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
