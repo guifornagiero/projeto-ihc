@@ -204,3 +204,31 @@ A forma como cada concorrente gera receita impacta diretamente os clientes. A ta
 | **Fator de Retenção**| Alto Custo de Troca (inércia)| Valor Contínuo (serviço) | Integração no Ecossistema (lock-in)|
 
 **Conclusão:** Nosso projeto, com sua arquitetura em nuvem, se alinha ao modelo OPEX, preferido pelo mercado moderno por sua flexibilidade e baixo custo inicial, similar ao da Irisity e Amazon Rekognition.
+
+---
+
+## 8. Pontos positivos e recomendações
+
+### Oportunidades de Melhoria para o Projeto
+
+Enquanto concorrentes oferecem ferramentas genéricas, a maior oportunidade do nosso projeto é nos aprofundarmos nos KPIs que realmente importam para o Metrô-SP. Perguntas como *"Qual o tempo médio de deslocamento entre a estação A e B no horário de pico?"* ou *"Qual a rota de fluxo mais comum após um grande evento no Anhangabaú?"* são diferenciais que apenas uma solução sob medida pode responder com precisão.
+
+### Recomendações
+
+Podemos acelerar nosso desenvolvimento adotando as melhores práticas dos concorrentes e, ao mesmo tempo, evitando seus erros mais comuns.
+
+**Aproveitando os Pontos Fortes dos Concorrentes:**
+- **Inspirado no Digifort: Implementar uma Dashboard Customizável.** A interface principal deve permitir que o usuário final (gestor) crie sua própria visão, arrastando e configurando widgets com os gráficos e KPIs mais relevantes para sua função.
+
+**Evitando os Pontos Fracos dos Concorrentes:**
+- **Aprendendo com o Digifort: Focar na Simplicidade e Intuitividade.** Devemos resistir à tentação de adicionar todas as funcionalidades possíveis. Nosso objetivo é criar uma ferramenta que seja poderosa para sua finalidade específica e que exija o mínimo de treinamento.
+
+---
+
+### Estratégias de Diferenciação para o Mercado
+
+Para se destacar, nosso software deve adotar uma estratégia de **hiperfoco no problema do cliente**, posicionando-se como uma solução especialista. Nossa principal mensagem de marketing e desenvolvimento não é ser "mais um software de análise de vídeo", mas sim:
+
+> **"A plataforma de inteligência de fluxo de passageiros para o Metrô de São Paulo."**
+
+Esse diferencial, embora segmente o mercado inicial, cria um caso de sucesso com potencial para despertar o interesse de outras concessionárias (como a ViaMobilidade), demonstrando valor claro e efetivo na otimização da operação metroviária.
