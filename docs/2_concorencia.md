@@ -83,25 +83,25 @@
 
 ### Concorrente 1: Digifort
 - **Pontos Positivos:**
-    - **Customização da Interface:** A plataforma permite alta capacidade de personalização da área de trabalho através de mosaicos de câmeras configuráveis.
-    - **Alta Responsividade:** Por ser uma aplicação desktop nativa, a velocidade de resposta a cliques e interações é fluida e satisfatória.
+    - A plataforma permite alta capacidade de personalização da área de trabalho através de mosaicos de câmeras configuráveis.
+    - Por ser uma aplicação desktop nativa, a velocidade de resposta a cliques e interações é fluida e satisfatória.
 - **Pontos Negativos:**
-    - **Sobrecarga Cognitiva:** A interface apresenta uma alta densidade informacional, o que pode sobrecarregar usuários iniciantes.
-    - **Curva de Aprendizagem Acentuada:** O design funcional, porém esteticamente datado, exige um período de treinamento para o uso eficiente da ferramenta.
+    - A interface apresenta uma alta densidade informacional, o que pode sobrecarregar usuários iniciantes.
+    - O design funcional, porém esteticamente datado, exige um período de treinamento para o uso eficiente da ferramenta.
 
 ### Concorrente 2: Irisity
 - **Pontos Positivos:**
-    - **Clareza e Foco em Insights:** A interface possui um design limpo e moderno, que prioriza a hierarquia visual e facilita a absorção das informações.
-    - **Alta Intuitividade e Fluxo Guiado:** A experiência é guiada por um paradigma de "monitoramento por exceção", onde alertas proativos guiam o usuário diretamente aos eventos de interesse.
+    - A interface possui um design limpo e moderno, que prioriza a hierarquia visual e facilita a absorção das informações.
+    - A experiência é guiada por um paradigma de "monitoramento por exceção", onde alertas proativos guiam o usuário diretamente aos eventos de interesse.
 - **Pontos Negativos:**
-    - **Dependência de Conectividade:** Por ser uma plataforma web, a fluidez da interação está diretamente atrelada à qualidade da conexão de rede e à latência do backend.
+    - Por ser uma plataforma web, a fluidez da interação está diretamente atrelada à qualidade da conexão de rede e à latência do backend.
 
 ### Concorrente 3: Amazon Rekognition
-- **Pontos Positivos (no Console de Testes):**
-    - **Interface Focada na Tarefa:** O console oferece uma interface minimalista com um fluxo de trabalho objetivo, permitindo ao desenvolvedor testar e validar as funcionalidades rapidamente.
-    - **Feedback Imediato:** A velocidade de processamento para análise de imagens é quase instantânea, agilizando o ciclo de desenvolvimento e prova de conceito.
+- **Pontos Positivos:**
+    - O console oferece uma interface minimalista com um fluxo de trabalho objetivo, permitindo ao desenvolvedor testar e validar as funcionalidades rapidamente.
+    - A velocidade de processamento para análise de imagens é quase instantânea, agilizando o ciclo de desenvolvimento e prova de conceito.
 - **Pontos Negativos:**
-    - **Risco de Inconsistência:** Atualizações forçadas nos modelos de IA pela AWS, sem controle do usuário, podem alterar o comportamento do algoritmo. Isso cria um risco de inconsistência nos dados ao comparar relatórios de fluxo entre diferentes períodos.
+    - Atualizações forçadas nos modelos de IA pela AWS, sem controle do usuário, podem alterar o comportamento do algoritmo. Isso cria um risco de inconsistência nos dados ao comparar relatórios de fluxo entre diferentes períodos.
 
 ---
 
@@ -109,37 +109,37 @@
 
 ### Concorrente 1: Digifort
 - **Modelo de Negócio:**
-    - O modelo principal é a venda de **licenças de software permanentes (CAPEX)**.
-    - Exige o pagamento de uma **taxa anual de manutenção** para acesso a atualizações e suporte.
-    - A precificação é **granular e modular** (licença base + licenças por câmera + licenças por módulo analítico).
-    - Oferece diferentes **edições do software** (Explorer, Standard, etc.) com diferentes limites e funcionalidades.
+    - O modelo principal é a venda de licenças de software permanentes.
+    - Exige o pagamento de uma taxa anual de manutenção para acesso a atualizações e suporte.
+    - A precificação é granular e modular (licença base + licenças por câmera + licenças por módulo analítico).
+    - Oferece diferentes edições do software (Explorer, Standard) com diferentes limites e funcionalidades.
 - **Suporte:**
-    - O suporte primário é fornecido pela rede de **distribuidores e integradores certificados**.
+    - O suporte primário é fornecido pela rede de distribuidores e integradores certificados.
 - **Impacto na Aquisição e Retenção:**
-    - **Aquisição:** O alto custo inicial pode ser uma barreira, mas a modularidade ajuda a começar pequeno. O modelo é familiar para clientes com orçamento de capital (CAPEX).
-    - **Retenção:** A retenção é **extremamente alta**, garantida pelo grande investimento inicial e pelo alto custo de troca.
+    - **Aquisição:** O alto custo inicial pode ser uma barreira, mas a modularidade ajuda a começar pequeno.
+    - **Retenção:** A retenção é extremamente alta, garantida pelo grande investimento inicial e pelo alto custo de troca.
 
 ### Concorrente 2: Irisity
 - **Modelo de Negócio:**
-    - O modelo é baseado em **assinaturas recorrentes (SaaS / OPEX)**.
-    - O preço geralmente é calculado por **câmera conectada e pelo nível de análise de IA** contratado.
-    - Oferece **planos em níveis** ("Professional", "Enterprise") com diferentes funcionalidades e níveis de serviço.
+    - O modelo é baseado em assinaturas recorrentes.
+    - O preço é calculado por câmera conectada e pelo nível de análise de IA contratado.
+    - Oferece planos em níveis ("Professional", "Enterprise") com diferentes funcionalidades e níveis de serviço.
 - **Suporte:**
-    - O suporte técnico está **incluído na assinatura** e é fornecido diretamente pela Irisity.
+    - O suporte técnico está incluído na assinatura e é fornecido diretamente pela Irisity.
 - **Impacto na Aquisição e Retenção:**
     - **Aquisição:** O baixo custo inicial e a oferta de **"trial" gratuito** removem a barreira financeira e facilitam a adoção.
-    - **Retenção:** É baseada no **valor contínuo percebido**, exigindo inovação constante e qualidade de serviço para evitar o cancelamento.
+    - **Retenção:** É baseada no valor contínuo percebido, exigindo inovação constante e qualidade de serviço para evitar o cancelamento.
 
 ### Concorrente 3: Amazon Rekognition
 - **Modelo de Negócio:**
-    - **Pagamento por uso (Pay-as-you-go)**, sem contratos ou taxas mínimas. O cliente paga exatamente pelo que consome.
-    - Oferece um **nível gratuito** por 12 meses para novos clientes, que funciona como uma poderosa ferramenta de aquisição.
-    - A precificação é **granular por chamada de API**, com descontos por volume para grandes clientes.
+    - Pagamento por uso (Pay-as-you-go), sem contratos ou taxas mínimas. O cliente paga exatamente pelo que consome.
+    - Oferece um nível gratuito por 12 meses para novos clientes, que funciona como uma poderosa ferramenta de aquisição.
+    - A precificação é granular por chamada de API, com descontos por volume para grandes clientes.
 - **Suporte:**
-    - O suporte é para a **conta AWS como um todo** e não específico para o Rekognition, com planos pagos (Developer, Business, etc.).
+    - O suporte é para a conta AWS como um todo e não específico para o Rekognition, com planos pagos (Developer, Business).
 - **Impacto na Aquisição e Retenção:**
     - **Aquisição:** A barreira de entrada é praticamente zero, incentivando a experimentação e a adoção em pequenos projetos.
-    - **Retenção:** É garantida pela **integração com o ecossistema AWS**. Uma vez que a aplicação é construída em torno dos serviços, o esforço para migrar se torna imenso (lock-in).
+    - **Retenção:** É garantida pela integração com o ecossistema AWS. Uma vez que a aplicação é construída em torno dos serviços, o esforço para migrar se torna imenso.
 
 ---
 
@@ -148,7 +148,7 @@
 ### Inovações Tecnológicas
 - **Inteligência Artificial e Análise Preditiva:** A mudança de monitoramento passivo (apenas gravar) para análise ativa (extrair insights e prever eventos).
 - **Computação na Borda (Edge Computing):** Processar o vídeo localmente (na câmera ou na estação) para economizar banda e aumentar a velocidade de resposta.
-- **Integração de Dados (Data Fusion):** Unificar dados de vídeo com outras fontes (bilhetagem, horários, etc.) para uma visão operacional completa.
+- **Integração de Dados (Data Fusion):** Unificar dados de vídeo com outras fontes (bilhetagem, horários) para uma visão operacional completa.
 
 ### Mudanças nas Preferências do Usuário
 - **Dashboards Interativos:** A expectativa por dashboards dinâmicos (como Power BI) onde o próprio usuário pode explorar os dados, em vez de relatórios estáticos.
