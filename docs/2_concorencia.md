@@ -206,16 +206,16 @@ Enquanto concorrentes oferecem ferramentas genéricas, a maior oportunidade do n
 Podemos acelerar nosso desenvolvimento adotando as melhores práticas dos concorrentes e, ao mesmo tempo, evitando seus erros mais comuns.
 
 **Aproveitando os Pontos Fortes dos Concorrentes:**
-- **Inspirado no Digifort: Implementar uma Dashboard Customizável.** A interface principal deve permitir que o usuário final (gestor) crie sua própria visão, arrastando e configurando widgets com os gráficos e KPIs mais relevantes para sua função.
+- Pensando no Digifort poderiamos implementar uma dashboard customizável. A interface principal deve permitir que o usuário final (gestor) crie sua própria visão, arrastando e configurando widgets com os gráficos e KPIs mais relevantes para sua função.
 
 **Evitando os Pontos Fracos dos Concorrentes:**
-- **Aprendendo com o Digifort: Focar na Simplicidade e Intuitividade.** Devemos resistir à tentação de adicionar todas as funcionalidades possíveis. Nosso objetivo é criar uma ferramenta que seja poderosa para sua finalidade específica e que exija o mínimo de treinamento.
+-  Pensando no Digifort deveriamos focar na simplicidade e intuitividade. Devemos resistir à tentação de adicionar todas as funcionalidades possíveis. Nosso objetivo é criar uma ferramenta que seja poderosa para sua finalidade específica e que exija o mínimo de treinamento.
 
 ---
 
 ### Estratégias de Diferenciação para o Mercado
 
-Para se destacar, nosso software deve adotar uma estratégia de **hiperfoco no problema do cliente**, posicionando-se como uma solução especialista. Nossa principal mensagem de marketing e desenvolvimento não é ser "mais um software de análise de vídeo", mas sim:
+Para se destacar, nosso software deve adotar uma estratégia de hiperfoco no problema do cliente, posicionando-se como uma solução especialista. Nossa principal mensagem de marketing e desenvolvimento não é ser "mais um software de análise de vídeo", mas sim:
 
 > **"A plataforma de inteligência de fluxo de passageiros para o Metrô de São Paulo."**
 
