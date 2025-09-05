@@ -156,3 +156,51 @@
 
 ### Novos Modelos de Negócios
 - **Migração para Assinaturas (SaaS):** A substituição de licenças caras (CAPEX) por pagamentos recorrentes e mais acessíveis (OPEX) como o modelo dominante no mercado de software.
+
+---
+
+## 7. Relatórios e resultados
+
+### Sumário
+
+A presente análise investigou três concorrentes chave — **Digifort**, **Irisity** e **Amazon Rekognition** — que representam as principais abordagens do mercado de monitoramento e análise de vídeo: a plataforma VMS tradicional, a solução especialista em IA e a tecnologia como serviço (PaaS), respectivamente.
+A análise revelou um mercado maduro, com soluções robustas para segurança e análise genérica. Contudo, foi identificado um claro gap de mercado para uma solução especialista, customizável e focada em resolver problemas de negócio específicos, como a análise de fluxo de passageiros.
+Nosso projeto se posiciona estrategicamente nesta lacuna, oferecendo não uma ferramenta genérica, mas uma solução fim-a-fim sob medida, com uma arquitetura moderna e um modelo de custos potencialmente mais eficiente, alinhado às principais tendências tecnológicas e às necessidades do cliente final.
+
+---
+
+### Tabela Comparativa Geral de Concorrentes
+
+| Concorrente | Perfil | Principal Ponto Forte | Principal Ponto Fraco (vs. Nosso Projeto) |
+| :--- | :--- | :--- | :--- |
+| **Digifort** | Plataforma VMS completa e modular | Ecossistema maduro, robusto e com ampla rede de suporte no Brasil. | Foco generalista; alto custo inicial (CAPEX) e baixa customização para problemas de negócio específicos. |
+| **Irisity** | Solução especialista em IA (SaaS) | Superioridade tecnológica em algoritmos de Re-ID e análise comportamental. | Alto custo (solução premium); vende um produto fechado que o cliente deve se adaptar. |
+| **Amazon Rekognition**| Plataforma de APIs (PaaS) | Baixíssima barreira de entrada e custo-benefício para o componente de IA. | Entrega a "ferramenta", não a "solução completa"; ausência de contexto de negócio e risco de "lock-in".|
+| **Nosso Projeto**| **Solução Especialista** | Foco total no problema de análise de fluxo; 100% customizável às necessidades do Metrô. | Produto em desenvolvimento; sem a maturidade e a escala dos concorrentes comerciais. |
+
+---
+
+### Destaques dos Pontos Fortes e Fracos
+
+A análise detalhada reforça o posicionamento estratégico do nosso projeto:
+
+* **Digifort é robusto, mas inflexível.** Sua força reside na sua estrutura consolidada de VMS, mas sua fraqueza é ser um "canivete suíço" quando o cliente precisa de um "bisturi". Nosso projeto é o bisturi, projetado para uma tarefa específica.
+
+* **Irisity é tecnologicamente avançado, mas potencialmente um "overkill".** Sua expertise em IA é um benchmark de qualidade, mas seu modelo de negócio e foco em múltiplas análises pode ser excessivamente caro e complexo para um cliente cujo único objetivo é entender o fluxo de passageiros.
+
+* **Amazon Rekognition é uma base, não o edifício.** Ele oferece os "tijolos" de IA com excelente custo-benefício, mas deixa para o cliente a tarefa complexa e cara de construir todo o sistema ao redor — exatamente o que nosso projeto se propõe a fazer.
+
+---
+
+### Análise Comparativa de Modelos de Negócio
+
+A forma como cada concorrente gera receita impacta diretamente os clientes. A tabela abaixo resume os modelos:
+
+| Característica | Digifort | Irisity | Amazon Rekognition |
+| :--- | :--- | :--- | :--- |
+| **Tipo de Custo** | CAPEX (Alto Custo Inicial) | OPEX (Custo Recorrente) | OPEX (Custo Variável) |
+| **Modelo Principal** | Licença Perpétua + Manutenção| Assinatura (SaaS) | Pagamento por Uso |
+| **Vantagem p/ Aquisição**| Orçamentos de capital; modularidade| Baixo custo inicial; teste gratuito| Barreira de entrada zero; nível gratuito|
+| **Fator de Retenção**| Alto Custo de Troca (inércia)| Valor Contínuo (serviço) | Integração no Ecossistema (lock-in)|
+
+**Conclusão:** Nosso projeto, com sua arquitetura em nuvem, se alinha ao modelo OPEX, preferido pelo mercado moderno por sua flexibilidade e baixo custo inicial, similar ao da Irisity e Amazon Rekognition.
