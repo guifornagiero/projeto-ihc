@@ -175,20 +175,8 @@ Nosso projeto se posiciona estrategicamente nesta lacuna, oferecendo não uma fe
 | :--- | :--- | :--- | :--- |
 | **Digifort** | Plataforma VMS completa e modular | Ecossistema maduro, robusto e com ampla rede de suporte no Brasil. | Foco generalista; alto custo inicial (CAPEX) e baixa customização para problemas de negócio específicos. |
 | **Irisity** | Solução especialista em IA (SaaS) | Superioridade tecnológica em algoritmos de Re-ID e análise comportamental. | Alto custo (solução premium); vende um produto fechado que o cliente deve se adaptar. |
-| **Amazon Rekognition**| Plataforma de APIs (PaaS) | Baixíssima barreira de entrada e custo-benefício para o componente de IA. | Entrega a "ferramenta", não a "solução completa"; ausência de contexto de negócio e risco de "lock-in".|
+| **Amazon Rekognition**| Plataforma de APIs (PaaS) | Baixíssima barreira de entrada e custo-benefício para o componente de IA. | Entrega a "ferramenta", não a "solução completa".|
 | **Nosso Projeto**| **Solução Especialista** | Foco total no problema de análise de fluxo; 100% customizável às necessidades do Metrô. | Produto em desenvolvimento; sem a maturidade e a escala dos concorrentes comerciais. |
-
----
-
-### Destaques dos Pontos Fortes e Fracos
-
-A análise detalhada reforça o posicionamento estratégico do nosso projeto:
-
-* **Digifort é robusto, mas inflexível.** Sua força reside na sua estrutura consolidada de VMS, mas sua fraqueza é ser um "canivete suíço" quando o cliente precisa de um "bisturi". Nosso projeto é o bisturi, projetado para uma tarefa específica.
-
-* **Irisity é tecnologicamente avançado, mas potencialmente um "overkill".** Sua expertise em IA é um benchmark de qualidade, mas seu modelo de negócio e foco em múltiplas análises pode ser excessivamente caro e complexo para um cliente cujo único objetivo é entender o fluxo de passageiros.
-
-* **Amazon Rekognition é uma base, não o edifício.** Ele oferece os "tijolos" de IA com excelente custo-benefício, mas deixa para o cliente a tarefa complexa e cara de construir todo o sistema ao redor — exatamente o que nosso projeto se propõe a fazer.
 
 ---
 
