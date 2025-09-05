@@ -27,13 +27,13 @@
 ### Amazon Rekognition
 - **Site:** [https://aws.amazon.com/rekognition/](https://aws.amazon.com/rekognition/)
 - **Características:**
-    - **Person Tracking:** API `StartPersonTracking` que rastreia pessoas em um vídeo, atribuindo um ID único para cada indivíduo detectado.
+    - **Person Tracking:** API StartPersonTracking que rastreia pessoas em um vídeo, atribuindo um ID único para cada indivíduo detectado.
     - **Face Detection and Analysis:** Detecta faces e atributos (gênero, idade aproximada, emoções).
     - **Face Search:** Permite buscar uma face detectada em um banco de faces previamente cadastradas, o que possibilita a reidentificação.
 - **Preços:**
     - Modelo "Pay-as-you-go" (pague pelo que usar), com custos baseados no volume de dados processados (ex: minutos de vídeo ou número de imagens).
 - **Público-alvo:**
-    - Desenvolvedores и equipes de TI que precisam adicionar capacidades de visão computacional a seus próprios sistemas e produtos.
+    - Desenvolvedores e equipes de TI que precisam adicionar capacidades de visão computacional a seus próprios sistemas e produtos.
 - **Materiais de Marketing:**
     - A comunicação é voltada para o público técnico, destacando a facilidade de uso (simples chamadas de API), a precisão dos modelos de IA e a escalabilidade.
 - **Interface:**
