@@ -40,7 +40,7 @@ Usuário-alvo: Analista/operador de monitoramento do metrô (pode ser segurança
 Contexto: Ele precisa acompanhar dados em tempo real para identificar pontos de atenção, como estações lotadas, situações de risco ou necessidade de reforço operacional.
 
 - ⁠O que ele Vê
-	•	Telas com dashboards e alertas em tempo real sobre fluxo de passageiros.
+	•	Telas com dashboards e alertas em tempo real sobre fluxo de passageiros. <br/>
 	•	Mapas das estações e movimentação de pessoas.
 	•	Indicadores de risco ou pontos críticos destacados pelo sistema.
 	•	Equipes em campo aguardando instruções.
