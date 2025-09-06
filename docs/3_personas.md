@@ -39,46 +39,46 @@ Persona Primária
 Usuário-alvo: Analista/operador de monitoramento do metrô (pode ser segurança, gestor operacional ou equipe de controle de fluxo de passageiros).
 Contexto: Ele precisa acompanhar dados em tempo real para identificar pontos de atenção, como estações lotadas, situações de risco ou necessidade de reforço operacional.
 
-- ⁠O que ele Vê
+- ⁠O que ele Vê <br/>
 	•	Telas com dashboards e alertas em tempo real sobre fluxo de passageiros. <br/>
-	•	Mapas das estações e movimentação de pessoas.
-	•	Indicadores de risco ou pontos críticos destacados pelo sistema.
-	•	Equipes em campo aguardando instruções.
-	•	Outras ferramentas de monitoramento já existentes (CFTV, rádio, sistemas internos).
+	•	Mapas das estações e movimentação de pessoas. <br/>
+	•	Indicadores de risco ou pontos críticos destacados pelo sistema. <br/>
+	•	Equipes em campo aguardando instruções. <br/>
+	•	Outras ferramentas de monitoramento já existentes (CFTV, rádio, sistemas internos). <br/>
 
-- ⁠O que ele Ouve
-	•	Ordens e solicitações de superiores sobre segurança e eficiência.
-	•	Feedback das equipes em campo relatando problemas.
-	•	Reclamações de usuários do metrô sobre lotação e atrasos.
-	•	Discussões sobre metas de qualidade, tempo de resposta e segurança.
+- ⁠O que ele Ouve <br/>
+	•	Ordens e solicitações de superiores sobre segurança e eficiência. <br/>
+	•	Feedback das equipes em campo relatando problemas. <br/>
+	•	Reclamações de usuários do metrô sobre lotação e atrasos. <br/>
+	•	Discussões sobre metas de qualidade, tempo de resposta e segurança. <br/>
 
-- ⁠O que ele Pensa e Sente
-	•	Quer tomar decisões rápidas e seguras para evitar falhas.
-	•	Preocupação com a responsabilidade (qualquer erro pode gerar impacto em milhares de pessoas).
-	•	Busca confiança no sistema: precisa acreditar que os insights são realmente úteis.
-	•	Ansiedade em situações de crise (lotação extrema, acidentes, emergências).
-	•	Satisfação quando consegue atuar preventivamente e evitar problemas maiores.
+- ⁠O que ele Pensa e Sente <br/>
+	•	Quer tomar decisões rápidas e seguras para evitar falhas. <br/>
+	•	Preocupação com a responsabilidade (qualquer erro pode gerar impacto em milhares de pessoas). <br/>
+	•	Busca confiança no sistema: precisa acreditar que os insights são realmente úteis. <br/>
+	•	Ansiedade em situações de crise (lotação extrema, acidentes, emergências). <br/>
+	•	Satisfação quando consegue atuar preventivamente e evitar problemas maiores. <br/>
 
-- O que ele Fala e Faz
-	•	Reporta insights e decisões aos superiores e colegas.
-	•	Dá instruções para equipes de campo com base nos dados.
-	•	Justifica ações com base nas evidências geradas pelo algoritmo.
-	•	Pode sugerir melhorias no sistema se sentir necessidade.
+- O que ele Fala e Faz <br/>
+	•	Reporta insights e decisões aos superiores e colegas. <br/>
+	•	Dá instruções para equipes de campo com base nos dados. <br/>
+	•	Justifica ações com base nas evidências geradas pelo algoritmo. <br/>
+	•	Pode sugerir melhorias no sistema se sentir necessidade. <br/>
 
-- ⁠Dores
-	•	Sobrecarga de informações que dificulta interpretar o que é prioritário.
-	•	Receio de o sistema falhar em um momento crítico.
-	•	Falta de integração com outras ferramentas já utilizadas.
-	•	Medo de tomar decisões erradas por confiar em dados imprecisos.
-	•	Resistência à adoção de novas tecnologias (medo de ser difícil de usar).
+- ⁠Dores <br/>
+	•	Sobrecarga de informações que dificulta interpretar o que é prioritário. <br/>
+	•	Receio de o sistema falhar em um momento crítico. <br/>
+	•	Falta de integração com outras ferramentas já utilizadas. <br/>
+	•	Medo de tomar decisões erradas por confiar em dados imprecisos. <br/>
+	•	Resistência à adoção de novas tecnologias (medo de ser difícil de usar). <br/>
 
-- ⁠Ganhos
-	•	Tomar decisões rápidas e baseadas em dados confiáveis.
-	•	Ter uma visão clara e simplificada das situações críticas.
-	•	Reduzir tempo de resposta em incidentes.
-	•	Sentir-se seguro e respaldado nas decisões.
-	•	Melhorar a experiência dos passageiros (menos lotação, mais organização).
-	•	Mostrar resultados para gestores (eficiência, prevenção de problemas).
+- ⁠Ganhos <br/>
+	•	Tomar decisões rápidas e baseadas em dados confiáveis. <br/>
+	•	Ter uma visão clara e simplificada das situações críticas. <br/>
+	•	Reduzir tempo de resposta em incidentes. <br/>
+	•	Sentir-se seguro e respaldado nas decisões. <br/>
+	•	Melhorar a experiência dos passageiros (menos lotação, mais organização). <br/>
+	•	Mostrar resultados para gestores (eficiência, prevenção de problemas). <br/>
  
 - Determine o mapa de empatia[1] de pelo menos uma persona primária e uma sercundária.
 
