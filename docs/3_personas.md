@@ -33,14 +33,54 @@ O operador é um funcionário operacional (25 a 50 anos), ensino médio ou técn
 
 ![Mapa de empatia](imagens/empatia.png)
 
+
+Persona Primária
+
+Usuário-alvo: Analista/operador de monitoramento do metrô (pode ser segurança, gestor operacional ou equipe de controle de fluxo de passageiros).
+Contexto: Ele precisa acompanhar dados em tempo real para identificar pontos de atenção, como estações lotadas, situações de risco ou necessidade de reforço operacional.
+
+- ⁠O que ele Vê
+	•	Telas com dashboards e alertas em tempo real sobre fluxo de passageiros.
+	•	Mapas das estações e movimentação de pessoas.
+	•	Indicadores de risco ou pontos críticos destacados pelo sistema.
+	•	Equipes em campo aguardando instruções.
+	•	Outras ferramentas de monitoramento já existentes (CFTV, rádio, sistemas internos).
+
+- ⁠O que ele Ouve
+	•	Ordens e solicitações de superiores sobre segurança e eficiência.
+	•	Feedback das equipes em campo relatando problemas.
+	•	Reclamações de usuários do metrô sobre lotação e atrasos.
+	•	Discussões sobre metas de qualidade, tempo de resposta e segurança.
+
+- ⁠O que ele Pensa e Sente
+	•	Quer tomar decisões rápidas e seguras para evitar falhas.
+	•	Preocupação com a responsabilidade (qualquer erro pode gerar impacto em milhares de pessoas).
+	•	Busca confiança no sistema: precisa acreditar que os insights são realmente úteis.
+	•	Ansiedade em situações de crise (lotação extrema, acidentes, emergências).
+	•	Satisfação quando consegue atuar preventivamente e evitar problemas maiores.
+
+- O que ele Fala e Faz
+	•	Reporta insights e decisões aos superiores e colegas.
+	•	Dá instruções para equipes de campo com base nos dados.
+	•	Justifica ações com base nas evidências geradas pelo algoritmo.
+	•	Pode sugerir melhorias no sistema se sentir necessidade.
+
+- ⁠Dores
+	•	Sobrecarga de informações que dificulta interpretar o que é prioritário.
+	•	Receio de o sistema falhar em um momento crítico.
+	•	Falta de integração com outras ferramentas já utilizadas.
+	•	Medo de tomar decisões erradas por confiar em dados imprecisos.
+	•	Resistência à adoção de novas tecnologias (medo de ser difícil de usar).
+
+- ⁠Ganhos
+	•	Tomar decisões rápidas e baseadas em dados confiáveis.
+	•	Ter uma visão clara e simplificada das situações críticas.
+	•	Reduzir tempo de resposta em incidentes.
+	•	Sentir-se seguro e respaldado nas decisões.
+	•	Melhorar a experiência dos passageiros (menos lotação, mais organização).
+	•	Mostrar resultados para gestores (eficiência, prevenção de problemas).
+ 
 - Determine o mapa de empatia[1] de pelo menos uma persona primária e uma sercundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
 
 # Contexto de uso
 
