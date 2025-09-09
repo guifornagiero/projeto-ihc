@@ -4,8 +4,7 @@
 
 ## Cenário de Análise/Problema
 
-### Atores: 
-Marcos (Analista de Dados do Metrô-SP), Carla (Gerente de Segurança do Metrô-SP) e Ricardo (Técnico de Infraestrutura).
+**Atores**: Marcos (Analista de Dados do Metrô-SP), Carla (Gerente de Segurança do Metrô-SP) e Ricardo (Técnico de Infraestrutura).
 
 Na sede administrativa do Metrô de São Paulo, o analista Marcos tem uma tarefa crucial: gerar um relatório mensal sobre o fluxo de passageiros nas estações da Linha 3-Vermelha para a diretoria [1, 2]. O objetivo é identificar os horários de pico e a superpopulação em determinadas plataformas para realocar funcionários e otimizar as escalas [3].
 
