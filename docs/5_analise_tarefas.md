@@ -26,3 +26,26 @@ GOAL 0: Cadastrar novo usuário
 <br> (SEL. RULE: falha no envio mas sistema permite cadastro mesmo assim)
 
 ### CTT
+
+## 2. Cadastro de Câmera
+
+### HTA
+<img width="1337" height="480" alt="image" src="https://github.com/user-attachments/assets/8eba7f6b-1787-407c-8d5d-bf59853ab1d4" />
+
+### GOMS
+GOAL 0: Cadastrar câmera
+<br> GOAL 1: Inserir Identificador, localização e estação da câmera
+<br> METHOD 1.A: Digitar ID e localização
+<br> (SEL. RULE: O ID deve ser único para o sistema e a localização deve ser descrita de forma textual)
+<br> METHOD 1.B: Selecionar estação
+<br> (SEL. RULE: Estações são pré-definidas no sistema)
+<br> GOAL 2: Enviar dados da câmera para o sistema
+<br> METHOD 2.A: Salvar e enviar os dados da câmera
+<br> (SEL. RULE: Os dados são submetidos para processamento e salvos no banco de dados)
+<br> GOAL 3: Enviar mensagem confirmando sucesso no cadastramento
+<br> METHOD 3.A: Exibir a mensagem de sucesso na tela
+<br> (SEL. RULE: Os dados foram salvos com sucesso e o sistema confirma o cadastramento)
+<br> METHOD 3.B: Exibir aviso de falha
+<br> (SEL. RULE: O sistema não consegue salvar os dados devido a um erro, como ID duplicado ou falha de conexão com o banco de dados)
+
+### CTT
