@@ -34,140 +34,138 @@ O operador é um funcionário operacional (25 a 50 anos), ensino médio ou técn
 ![Mapa de empatia](imagens/empatia.png)
 
 
-### [cite_start]**Mapa de Empatia – Persona 1: Administrador do Metrô (Carlos)** [cite: 2]
+### **Mapa de Empatia – Persona 1: Administrador do Metrô (Carlos)**
 
-[cite_start]**Perfil resumido:** Carlos, 45 anos, é administrador do Metrô[cite: 3]. [cite_start]Ele atua em nível gerencial e é responsável por acompanhar a operação, analisar indicadores e tomar decisões estratégicas sobre recursos, segurança e desempenho[cite: 3].
+**Perfil resumido:** Carlos, 45 anos, é administrador do Metrô. Ele atua em nível gerencial e é responsável por acompanhar a operação, analisar indicadores e tomar decisões estratégicas sobre recursos, segurança e desempenho.
 
-[cite_start]**O que ele vê?** [cite: 4]
-* [cite_start]Dashboards com indicadores de fluxo de passageiros, segurança e status das câmeras[cite: 5].
-* [cite_start]Relatórios detalhados de movimentação e ocorrências[cite: 6].
-* [cite_start]Registro das atividades de operadores e analistas[cite: 7].
-* [cite_start]Um sistema centralizado que reúne todas as informações[cite: 8].
+**O que ele vê?**
+* Dashboards com indicadores de fluxo de passageiros, segurança e status das câmeras.
+* Relatórios detalhados de movimentação e ocorrências.
+* Registro das atividades de operadores e analistas.
+* Um sistema centralizado que reúne todas as informações.
 
-[cite_start]**O que ele ouve?** [cite: 9]
-* [cite_start]Pressão da diretoria por resultados claros e justificativas objetivas[cite: 10].
-* [cite_start]Feedback dos analistas e operadores sobre suas rotinas[cite: 11].
-* [cite_start]Cobranças externas (governo, opinião pública) por segurança e eficiência[cite: 12].
-* [cite_start]Conversas internas sobre alocação de recursos e incidentes em estações críticas[cite: 13].
+**O que ele ouve?**
+* Pressão da diretoria por resultados claros e justificativas objetivas.
+* Feedback dos analistas e operadores sobre suas rotinas.
+* Cobranças externas (governo, opinião pública) por segurança e eficiência.
+* Conversas internas sobre alocação de recursos e incidentes em estações críticas.
 
-[cite_start]**O que ele pensa e sente?** [cite: 14]
-* [cite_start]Sente-se seguro quando vê transparência e rastreabilidade no sistema[cite: 15].
-* [cite_start]Tem confiança em tomar decisões quando as informações estão organizadas[cite: 16].
-* [cite_start]Preocupa-se em justificar investimentos para garantir recursos[cite: 17].
-* [cite_start]Valoriza soluções que otimizam tempo e diminuem riscos[cite: 18].
-* [cite_start]Busca a tranquilidade de que tudo ficará registrado para consulta futura[cite: 19].
+**O que ele pensa e sente?**
+* Sente-se seguro quando vê transparência e rastreabilidade no sistema.
+* Tem confiança em tomar decisões quando as informações estão organizadas.
+* Preocupa-se em justificar investimentos para garantir recursos.
+* Valoriza soluções que otimizam tempo e diminuem riscos.
+* Busca a tranquilidade de que tudo ficará registrado para consulta futura.
 
-[cite_start]**O que ele fala e faz?** [cite: 20]
-* [cite_start]Relata para a diretoria dados objetivos para apoiar solicitações de recursos[cite: 21].
-* [cite_start]Reforça a importância de relatórios consolidados e rastreáveis[cite: 22].
-* [cite_start]Solicita melhorias baseadas em dados (ex.: reforço de segurança em estação crítica)[cite: 23].
-* [cite_start]Cobra responsabilidade e cumprimento de funções da equipe[cite: 24].
-* [cite_start]Compartilha a importância da centralização de informações[cite: 25].
+**O que ele fala e faz?**
+* Relata para a diretoria dados objetivos para apoiar solicitações de recursos.
+* Reforça a importância de relatórios consolidados e rastreáveis.
+* Solicita melhorias baseadas em dados (ex.: reforço de segurança em estação crítica).
+* Cobra responsabilidade e cumprimento de funções da equipe.
+* Compartilha a importância da centralização de informações.
 
-[cite_start]**Dores (Medos, Obstáculos)** [cite: 26]
-* [cite_start]Ter que tomar decisões sem dados confiáveis[cite: 27].
-* [cite_start]Falta de transparência ou relatórios incompletos da equipe[cite: 28].
-* [cite_start]Exposição a críticas em caso de falhas de segurança ou operação[cite: 29].
-* [cite_start]Sobrecarga de informações difíceis de interpretar[cite: 30].
-* [cite_start]Dificuldade em demonstrar a necessidade de recursos sem dados sólidos[cite: 31].
+**Dores (Medos, Obstáculos)**
+* Ter que tomar decisões sem dados confiáveis.
+* Falta de transparência ou relatórios incompletos da equipe.
+* Exposição a críticas em caso de falhas de segurança ou operação.
+* Sobrecarga de informações difíceis de interpretar.
+* Dificuldade em demonstrar a necessidade de recursos sem dados sólidos.
 
-[cite_start]**Ganhos (Necessidades, Benefícios esperados)** [cite: 32]
-* [cite_start]Relatórios rápidos, claros e consolidados, prontos para a diretoria[cite: 33].
-* [cite_start]Dashboards intuitivos, que mostrem indicadores essenciais sem sobrecarga[cite: 34].
-* [cite_start]Histórico rastreável de decisões e atividades (transparência)[cite: 35].
-* [cite_start]Base sólida para justificar recursos e investimentos[cite: 36].
-* [cite_start]Tranquilidade e confiança de que suas decisões estão documentadas e bem fundamentadas[cite: 37].
+**Ganhos (Necessidades, Benefícios esperados)**
+* Relatórios rápidos, claros e consolidados, prontos para a diretoria.
+* Dashboards intuitivos, que mostrem indicadores essenciais sem sobrecarga.
+* Histórico rastreável de decisões e atividades (transparência).
+* Base sólida para justificar recursos e investimentos.
+* Tranquilidade e confiança de que suas decisões estão documentadas e bem fundamentadas.
 
-### [cite_start]**Mapa de Empatia – Persona 2: Analista de Dados do Metrô (Mariana)** [cite: 38]
+### **Mapa de Empatia – Persona 2: Analista de Dados do Metrô (Mariana)**
 
-[cite_start]**Perfil resumido:** Mariana, 32 anos, é analista de dados[cite: 39]. [cite_start]Ela trabalha diariamente com dashboards, relatórios e dados brutos do sistema[cite: 39]. [cite_start]Seu foco é gerar insights confiáveis para apoiar gestores e garantir que a operação do metrô seja eficiente e baseada em evidências[cite: 40].
+**Perfil resumido:** Mariana, 32 anos, é analista de dados. Ela trabalha diariamente com dashboards, relatórios e dados brutos do sistema. Seu foco é gerar insights confiáveis para apoiar gestores e garantir que a operação do metrô seja eficiente e baseada em evidências.
 
-[cite_start]**O que ela vê?** [cite: 41]
-* [cite_start]Dashboards em tempo real com fluxo de passageiros e alertas de ocorrências[cite: 42].
-* [cite_start]Gráficos atualizados que podem ser personalizados com filtros[cite: 43].
-* [cite_start]Relatórios exportados em PDF e planilhas para análises externas[cite: 44].
-* [cite_start]Logs de atividades que registram cada ação[cite: 45].
+**O que ela vê?**
+* Dashboards em tempo real com fluxo de passageiros e alertas de ocorrências.
+* Gráficos atualizados que podem ser personalizados com filtros.
+* Relatórios exportados em PDF e planhas para análises externas.
+* Logs de atividades que registram cada ação.
 
-[cite_start]**O que ela ouve?** [cite: 46]
-* [cite_start]Demandas do administrador e da diretoria por relatórios claros[cite: 47].
-* [cite_start]Feedback da equipe sobre a necessidade de análises mais rápidas[cite: 48].
-* [cite_start]Conversas técnicas com colegas sobre integrações e ferramentas externas[cite: 49].
-* [cite_start]Reconhecimento quando suas análises embasam decisões estratégicas[cite: 50].
+**O que ela ouve?**
+* Demandas do administrador e da diretoria por relatórios claros.
+* Feedback da equipe sobre a necessidade de análises mais rápidas.
+* Conversas técnicas com colegas sobre integrações e ferramentas externas.
+* Reconhecimento quando suas análises embasam decisões estratégicas.
 
-[cite_start]**O que ela pensa e sente?** [cite: 51]
-* [cite_start]Sente-se responsável pela qualidade e confiabilidade dos dados[cite: 52].
-* [cite_start]Tem satisfação quando vê que seu trabalho ajuda nas decisões estratégicas[cite: 53].
-* [cite_start]Busca eficiência, evitando retrabalho em relatórios[cite: 54].
-* [cite_start]Pode sentir pressão ao lidar com grande volume de dados em pouco tempo[cite: 55].
-* [cite_start]Valoriza sistemas que oferecem flexibilidade e personalização[cite: 56].
+**O que ela pensa e sente?**
+* Sente-se responsável pela qualidade e confiabilidade dos dados.
+* Tem satisfação quando vê que seu trabalho ajuda nas decisões estratégicas.
+* Busca eficiência, evitando retrabalho em relatórios.
+* Pode sentir pressão ao lidar com grande volume de dados em pouco tempo.
+* Valoriza sistemas que oferecem flexibilidade e personalização.
 
-[cite_start]**O que ela fala e faz?** [cite: 57]
-* [cite_start]Gera relatórios comparativos para identificar tendências[cite: 58].
-* [cite_start]Solicita melhorias em filtros e exportações para facilitar o trabalho[cite: 59].
-* [cite_start]Reforça a importância da rastreabilidade e padronização dos dados[cite: 60].
-* [cite_start]Compartilha insights sobre padrões de fluxo e falhas técnicas[cite: 61].
-* [cite_start]Usa ferramentas externas de estatística para análises mais avançadas[cite: 62].
+**O que ela fala e faz?**
+* Gera relatórios comparativos para identificar tendências.
+* Solicita melhorias em filtros e exportações para facilitar o trabalho.
+* Reforça a importância da rastreabilidade e padronização dos dados.
+* Compartilha insights sobre padrões de fluxo e falhas técnicas.
+* Usa ferramentas externas de estatística para análises mais avançadas.
 
-[cite_start]**Dores (Medos, Obstáculos)** [cite: 63]
-* [cite_start]Dados inconsistentes que comprometam a análise[cite: 64].
-* [cite_start]Limitações no sistema para cruzar variáveis complexas[cite: 65].
-* [cite_start]Perda de tempo com relatórios manuais ou mal configurados[cite: 66].
-* [cite_start]Risco de que suas análises não sejam valorizadas pela gestão[cite: 67].
-* [cite_start]Sobrecarga de trabalho em horários de pico de demandas[cite: 68].
+**Dores (Medos, Obstáculos)**
+* Dados inconsistentes que comprometam a análise.
+* Limitações no sistema para cruzar variáveis complexas.
+* Perda de tempo com relatórios manuais ou mal configurados.
+* Risco de que suas análises não sejam valorizadas pela gestão.
+* Sobrecarga de trabalho em horários de pico de demandas.
 
-[cite_start]**Ganhos (Necessidades, Benefícios esperados)** [cite: 69]
-* [cite_start]Dashboards altamente configuráveis e salvos automaticamente[cite: 70].
-* [cite_start]Exportações rápidas e completas para diferentes formatos[cite: 71].
-* [cite_start]Logs transparentes, que garantem confiança no processo[cite: 72].
-* [cite_start]Facilidade para cruzar dados complexos sem depender de soluções externas[cite: 73].
-* [cite_start]Reconhecimento profissional por entregar informações de qualidade[cite: 74].
-* [cite_start]Sensação de dever cumprido ao fornecer relatórios claros e úteis[cite: 75].
+**Ganhos (Necessidades, Benefícios esperados)**
+* Dashboards altamente configuráveis e salvos automaticamente.
+* Exportações rápidas e completas para diferentes formatos.
+* Logs transparentes, que garantem confiança no processo.
+* Facilidade para cruzar dados complexos sem depender de soluções externas.
+* Reconhecimento profissional por entregar informações de qualidade.
+* Sensação de dever cumprido ao fornecer relatórios claros e úteis.
 
-### [cite_start]**Mapa de Empatia – Persona 3: Operador de Câmeras do Metrô (João)** [cite: 76]
+### **Mapa de Empatia – Persona 3: Operador de Câmeras do Metrô (João)**
 
-[cite_start]**Perfil resumido:** João, 38 anos, é operador do centro de controle[cite: 77]. [cite_start]Sua função é monitorar as câmeras em tempo real, registrar ocorrências e manter os equipamentos em pleno funcionamento[cite: 78]. [cite_start]Ele é o “olho da operação” no dia a dia, garantindo segurança e rastreabilidade[cite: 79].
+**Perfil resumido:** João, 38 anos, é operador do centro de controle. Sua função é monitorar as câmeras em tempo real, registrar ocorrências e manter os equipamentos em pleno funcionamento. Ele é o “olho da operação” no dia a dia, garantindo segurança e rastreabilidade.
 
-[cite_start]**O que ele vê?** [cite: 80]
-* [cite_start]Interface do sistema de câmeras em tempo real[cite: 81].
-* [cite_start]Notificações sobre ocorrências ou mudanças de configuração[cite: 82].
-* [cite_start]Painel de inicialização e atualização dos equipamentos[cite: 83].
-* [cite_start]Histórico de atividades realizadas durante o turno[cite: 84].
+**O que ele vê?**
+* Interface do sistema de câmeras em tempo real.
+* Notificações sobre ocorrências ou mudanças de configuração.
+* Painel de inicialização e atualização dos equipamentos.
+* Histórico de atividades realizadas durante o turno.
 
-[cite_start]**O que ele ouve?** [cite: 85]
-* [cite_start]Alertas da equipe de segurança pedindo atenção em determinadas áreas[cite: 86].
-* [cite_start]Orientações de supervisores sobre câmeras críticas[cite: 87].
-* [cite_start]Comunicação entre colegas de turno durante a troca de plantão[cite: 88].
-* [cite_start]Feedback sobre a importância de registrar cada ocorrência corretamente[cite: 89].
+**O que ele ouve?**
+* Alertas da equipe de segurança pedindo atenção em determinadas áreas.
+* Orientações de supervisores sobre câmeras críticas.
+* Comunicação entre colegas de turno durante a troca de plantão.
+* Feedback sobre a importância de registrar cada ocorrência corretamente.
 
-[cite_start]**O que ele pensa e sente?** [cite: 90]
-* [cite_start]Sente-se responsável pela segurança imediata dos passageiros[cite: 91].
-* [cite_start]Confia no sistema porque sabe que suas ações ficam registradas (transparência)[cite: 92].
-* [cite_start]Pode sentir pressão constante, pois qualquer distração pode causar falhas[cite: 93].
-* [cite_start]Busca tranquilidade ao confirmar que todas as câmeras estão ativas[cite: 94].
-* [cite_start]Tem satisfação em cumprir bem o turno e entregar tudo em ordem ao próximo operador[cite: 95].
+**O que ele pensa e sente?**
+* Sente-se responsável pela segurança imediata dos passageiros.
+* Confia no sistema porque sabe que suas ações ficam registradas (transparência).
+* Pode sentir pressão constante, pois qualquer distração pode causar falhas.
+* Busca tranquilidade ao confirmar que todas as câmeras estão ativas.
+* Tem satisfação em cumprir bem o turno e entregar tudo em ordem ao próximo operador.
 
-[cite_start]**O que ele fala e faz?** [cite: 96]
-* [cite_start]Inicializa e monitora câmeras diariamente[cite: 97].
-* [cite_start]Registra ocorrências no sistema e notifica a segurança[cite: 98].
-* [cite_start]Atualiza identificações de câmeras após manutenção[cite: 99].
-* [cite_start]Compartilha informações relevantes durante a troca de turno[cite: 100].
-* [cite_start]Reforça para colegas a importância de manter os registros precisos[cite: 101].
+**O que ele fala e faz?**
+* Inicializa e monitora câmeras diariamente.
+* Registra ocorrências no sistema e notifica a segurança.
+* Atualiza identificações de câmeras após manutenção.
+* Compartilha informações relevantes durante a troca de turno.
+* Reforça para colegas a importância de manter os registros precisos.
 
-[cite_start]**Dores (Medos, Obstáculos)** [cite: 102]
-* [cite_start]Falha em uma câmera crítica durante seu turno[cite: 103].
-* [cite_start]Sobrecarga de atenção, monitorando várias telas ao mesmo tempo[cite: 104].
-* [cite_start]Sistema lento para registrar ocorrências em situações urgentes[cite: 105].
-* [cite_start]Ser responsabilizado por algo que não estava sob seu controle[cite: 106].
-* [cite_start]Comunicação falha entre operadores em trocas de plantão[cite: 107].
+**Dores (Medos, Obstáculos)**
+* Falha em uma câmera crítica durante seu turno.
+* Sobrecarga de atenção, monitorando várias telas ao mesmo tempo.
+* Sistema lento para registrar ocorrências em situações urgentes.
+* Ser responsabilizado por algo que não estava sob seu controle.
+* Comunicação falha entre operadores em trocas de plantão.
 
-[cite_start]**Ganhos (Necessidades, Benefícios esperados)** [cite: 108]
-* [cite_start]Sistema rápido e confiável, que não trave em situações críticas[cite: 109].
-* [cite_start]Histórico completo e transparente, protegendo sua atuação[cite: 110].
-* [cite_start]Interface clara, com alertas visuais fáceis de identificar[cite: 111].
-* [cite_start]Integração fluida com a equipe de segurança, reduzindo o tempo de resposta[cite: 112].
-* [cite_start]Sensação de dever cumprido ao encerrar o turno com tudo registrado e em ordem[cite: 113].
-
-
+**Ganhos (Necessidades, Benefícios esperados)**
+* Sistema rápido e confiável, que não trave em situações críticas.
+* Histórico completo e transparente, protegendo sua atuação.
+* Interface clara, com alertas visuais fáceis de identificar.
+* Integração fluida com a equipe de segurança, reduzindo o tempo de resposta.
+* Sensação de dever cumprido ao encerrar o turno com tudo registrado e em ordem.
  
 - Determine o mapa de empatia[1] de pelo menos uma persona primária e uma sercundária.
 
