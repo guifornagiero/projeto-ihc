@@ -34,51 +34,140 @@ O operador é um funcionário operacional (25 a 50 anos), ensino médio ou técn
 ![Mapa de empatia](imagens/empatia.png)
 
 
-Persona Primária
+### [cite_start]**Mapa de Empatia – Persona 1: Administrador do Metrô (Carlos)** [cite: 2]
 
-Usuário-alvo: Analista/operador de monitoramento do metrô (pode ser segurança, gestor operacional ou equipe de controle de fluxo de passageiros).
-Contexto: Ele precisa acompanhar dados em tempo real para identificar pontos de atenção, como estações lotadas, situações de risco ou necessidade de reforço operacional.
+[cite_start]**Perfil resumido:** Carlos, 45 anos, é administrador do Metrô[cite: 3]. [cite_start]Ele atua em nível gerencial e é responsável por acompanhar a operação, analisar indicadores e tomar decisões estratégicas sobre recursos, segurança e desempenho[cite: 3].
 
-- ⁠O que ele Vê <br/>
-	•	Telas com dashboards e alertas em tempo real sobre fluxo de passageiros. <br/>
-	•	Mapas das estações e movimentação de pessoas. <br/>
-	•	Indicadores de risco ou pontos críticos destacados pelo sistema. <br/>
-	•	Equipes em campo aguardando instruções. <br/>
-	•	Outras ferramentas de monitoramento já existentes (CFTV, rádio, sistemas internos). <br/>
+[cite_start]**O que ele vê?** [cite: 4]
+* [cite_start]Dashboards com indicadores de fluxo de passageiros, segurança e status das câmeras[cite: 5].
+* [cite_start]Relatórios detalhados de movimentação e ocorrências[cite: 6].
+* [cite_start]Registro das atividades de operadores e analistas[cite: 7].
+* [cite_start]Um sistema centralizado que reúne todas as informações[cite: 8].
 
-- ⁠O que ele Ouve <br/>
-	•	Ordens e solicitações de superiores sobre segurança e eficiência. <br/>
-	•	Feedback das equipes em campo relatando problemas. <br/>
-	•	Reclamações de usuários do metrô sobre lotação e atrasos. <br/>
-	•	Discussões sobre metas de qualidade, tempo de resposta e segurança. <br/>
+[cite_start]**O que ele ouve?** [cite: 9]
+* [cite_start]Pressão da diretoria por resultados claros e justificativas objetivas[cite: 10].
+* [cite_start]Feedback dos analistas e operadores sobre suas rotinas[cite: 11].
+* [cite_start]Cobranças externas (governo, opinião pública) por segurança e eficiência[cite: 12].
+* [cite_start]Conversas internas sobre alocação de recursos e incidentes em estações críticas[cite: 13].
 
-- ⁠O que ele Pensa e Sente <br/>
-	•	Quer tomar decisões rápidas e seguras para evitar falhas. <br/>
-	•	Preocupação com a responsabilidade (qualquer erro pode gerar impacto em milhares de pessoas). <br/>
-	•	Busca confiança no sistema: precisa acreditar que os insights são realmente úteis. <br/>
-	•	Ansiedade em situações de crise (lotação extrema, acidentes, emergências). <br/>
-	•	Satisfação quando consegue atuar preventivamente e evitar problemas maiores. <br/>
+[cite_start]**O que ele pensa e sente?** [cite: 14]
+* [cite_start]Sente-se seguro quando vê transparência e rastreabilidade no sistema[cite: 15].
+* [cite_start]Tem confiança em tomar decisões quando as informações estão organizadas[cite: 16].
+* [cite_start]Preocupa-se em justificar investimentos para garantir recursos[cite: 17].
+* [cite_start]Valoriza soluções que otimizam tempo e diminuem riscos[cite: 18].
+* [cite_start]Busca a tranquilidade de que tudo ficará registrado para consulta futura[cite: 19].
 
-- O que ele Fala e Faz <br/>
-	•	Reporta insights e decisões aos superiores e colegas. <br/>
-	•	Dá instruções para equipes de campo com base nos dados. <br/>
-	•	Justifica ações com base nas evidências geradas pelo algoritmo. <br/>
-	•	Pode sugerir melhorias no sistema se sentir necessidade. <br/>
+[cite_start]**O que ele fala e faz?** [cite: 20]
+* [cite_start]Relata para a diretoria dados objetivos para apoiar solicitações de recursos[cite: 21].
+* [cite_start]Reforça a importância de relatórios consolidados e rastreáveis[cite: 22].
+* [cite_start]Solicita melhorias baseadas em dados (ex.: reforço de segurança em estação crítica)[cite: 23].
+* [cite_start]Cobra responsabilidade e cumprimento de funções da equipe[cite: 24].
+* [cite_start]Compartilha a importância da centralização de informações[cite: 25].
 
-- ⁠Dores <br/>
-	•	Sobrecarga de informações que dificulta interpretar o que é prioritário. <br/>
-	•	Receio de o sistema falhar em um momento crítico. <br/>
-	•	Falta de integração com outras ferramentas já utilizadas. <br/>
-	•	Medo de tomar decisões erradas por confiar em dados imprecisos. <br/>
-	•	Resistência à adoção de novas tecnologias (medo de ser difícil de usar). <br/>
+[cite_start]**Dores (Medos, Obstáculos)** [cite: 26]
+* [cite_start]Ter que tomar decisões sem dados confiáveis[cite: 27].
+* [cite_start]Falta de transparência ou relatórios incompletos da equipe[cite: 28].
+* [cite_start]Exposição a críticas em caso de falhas de segurança ou operação[cite: 29].
+* [cite_start]Sobrecarga de informações difíceis de interpretar[cite: 30].
+* [cite_start]Dificuldade em demonstrar a necessidade de recursos sem dados sólidos[cite: 31].
 
-- ⁠Ganhos <br/>
-	•	Tomar decisões rápidas e baseadas em dados confiáveis. <br/>
-	•	Ter uma visão clara e simplificada das situações críticas. <br/>
-	•	Reduzir tempo de resposta em incidentes. <br/>
-	•	Sentir-se seguro e respaldado nas decisões. <br/>
-	•	Melhorar a experiência dos passageiros (menos lotação, mais organização). <br/>
-	•	Mostrar resultados para gestores (eficiência, prevenção de problemas). <br/>
+[cite_start]**Ganhos (Necessidades, Benefícios esperados)** [cite: 32]
+* [cite_start]Relatórios rápidos, claros e consolidados, prontos para a diretoria[cite: 33].
+* [cite_start]Dashboards intuitivos, que mostrem indicadores essenciais sem sobrecarga[cite: 34].
+* [cite_start]Histórico rastreável de decisões e atividades (transparência)[cite: 35].
+* [cite_start]Base sólida para justificar recursos e investimentos[cite: 36].
+* [cite_start]Tranquilidade e confiança de que suas decisões estão documentadas e bem fundamentadas[cite: 37].
+
+### [cite_start]**Mapa de Empatia – Persona 2: Analista de Dados do Metrô (Mariana)** [cite: 38]
+
+[cite_start]**Perfil resumido:** Mariana, 32 anos, é analista de dados[cite: 39]. [cite_start]Ela trabalha diariamente com dashboards, relatórios e dados brutos do sistema[cite: 39]. [cite_start]Seu foco é gerar insights confiáveis para apoiar gestores e garantir que a operação do metrô seja eficiente e baseada em evidências[cite: 40].
+
+[cite_start]**O que ela vê?** [cite: 41]
+* [cite_start]Dashboards em tempo real com fluxo de passageiros e alertas de ocorrências[cite: 42].
+* [cite_start]Gráficos atualizados que podem ser personalizados com filtros[cite: 43].
+* [cite_start]Relatórios exportados em PDF e planilhas para análises externas[cite: 44].
+* [cite_start]Logs de atividades que registram cada ação[cite: 45].
+
+[cite_start]**O que ela ouve?** [cite: 46]
+* [cite_start]Demandas do administrador e da diretoria por relatórios claros[cite: 47].
+* [cite_start]Feedback da equipe sobre a necessidade de análises mais rápidas[cite: 48].
+* [cite_start]Conversas técnicas com colegas sobre integrações e ferramentas externas[cite: 49].
+* [cite_start]Reconhecimento quando suas análises embasam decisões estratégicas[cite: 50].
+
+[cite_start]**O que ela pensa e sente?** [cite: 51]
+* [cite_start]Sente-se responsável pela qualidade e confiabilidade dos dados[cite: 52].
+* [cite_start]Tem satisfação quando vê que seu trabalho ajuda nas decisões estratégicas[cite: 53].
+* [cite_start]Busca eficiência, evitando retrabalho em relatórios[cite: 54].
+* [cite_start]Pode sentir pressão ao lidar com grande volume de dados em pouco tempo[cite: 55].
+* [cite_start]Valoriza sistemas que oferecem flexibilidade e personalização[cite: 56].
+
+[cite_start]**O que ela fala e faz?** [cite: 57]
+* [cite_start]Gera relatórios comparativos para identificar tendências[cite: 58].
+* [cite_start]Solicita melhorias em filtros e exportações para facilitar o trabalho[cite: 59].
+* [cite_start]Reforça a importância da rastreabilidade e padronização dos dados[cite: 60].
+* [cite_start]Compartilha insights sobre padrões de fluxo e falhas técnicas[cite: 61].
+* [cite_start]Usa ferramentas externas de estatística para análises mais avançadas[cite: 62].
+
+[cite_start]**Dores (Medos, Obstáculos)** [cite: 63]
+* [cite_start]Dados inconsistentes que comprometam a análise[cite: 64].
+* [cite_start]Limitações no sistema para cruzar variáveis complexas[cite: 65].
+* [cite_start]Perda de tempo com relatórios manuais ou mal configurados[cite: 66].
+* [cite_start]Risco de que suas análises não sejam valorizadas pela gestão[cite: 67].
+* [cite_start]Sobrecarga de trabalho em horários de pico de demandas[cite: 68].
+
+[cite_start]**Ganhos (Necessidades, Benefícios esperados)** [cite: 69]
+* [cite_start]Dashboards altamente configuráveis e salvos automaticamente[cite: 70].
+* [cite_start]Exportações rápidas e completas para diferentes formatos[cite: 71].
+* [cite_start]Logs transparentes, que garantem confiança no processo[cite: 72].
+* [cite_start]Facilidade para cruzar dados complexos sem depender de soluções externas[cite: 73].
+* [cite_start]Reconhecimento profissional por entregar informações de qualidade[cite: 74].
+* [cite_start]Sensação de dever cumprido ao fornecer relatórios claros e úteis[cite: 75].
+
+### [cite_start]**Mapa de Empatia – Persona 3: Operador de Câmeras do Metrô (João)** [cite: 76]
+
+[cite_start]**Perfil resumido:** João, 38 anos, é operador do centro de controle[cite: 77]. [cite_start]Sua função é monitorar as câmeras em tempo real, registrar ocorrências e manter os equipamentos em pleno funcionamento[cite: 78]. [cite_start]Ele é o “olho da operação” no dia a dia, garantindo segurança e rastreabilidade[cite: 79].
+
+[cite_start]**O que ele vê?** [cite: 80]
+* [cite_start]Interface do sistema de câmeras em tempo real[cite: 81].
+* [cite_start]Notificações sobre ocorrências ou mudanças de configuração[cite: 82].
+* [cite_start]Painel de inicialização e atualização dos equipamentos[cite: 83].
+* [cite_start]Histórico de atividades realizadas durante o turno[cite: 84].
+
+[cite_start]**O que ele ouve?** [cite: 85]
+* [cite_start]Alertas da equipe de segurança pedindo atenção em determinadas áreas[cite: 86].
+* [cite_start]Orientações de supervisores sobre câmeras críticas[cite: 87].
+* [cite_start]Comunicação entre colegas de turno durante a troca de plantão[cite: 88].
+* [cite_start]Feedback sobre a importância de registrar cada ocorrência corretamente[cite: 89].
+
+[cite_start]**O que ele pensa e sente?** [cite: 90]
+* [cite_start]Sente-se responsável pela segurança imediata dos passageiros[cite: 91].
+* [cite_start]Confia no sistema porque sabe que suas ações ficam registradas (transparência)[cite: 92].
+* [cite_start]Pode sentir pressão constante, pois qualquer distração pode causar falhas[cite: 93].
+* [cite_start]Busca tranquilidade ao confirmar que todas as câmeras estão ativas[cite: 94].
+* [cite_start]Tem satisfação em cumprir bem o turno e entregar tudo em ordem ao próximo operador[cite: 95].
+
+[cite_start]**O que ele fala e faz?** [cite: 96]
+* [cite_start]Inicializa e monitora câmeras diariamente[cite: 97].
+* [cite_start]Registra ocorrências no sistema e notifica a segurança[cite: 98].
+* [cite_start]Atualiza identificações de câmeras após manutenção[cite: 99].
+* [cite_start]Compartilha informações relevantes durante a troca de turno[cite: 100].
+* [cite_start]Reforça para colegas a importância de manter os registros precisos[cite: 101].
+
+[cite_start]**Dores (Medos, Obstáculos)** [cite: 102]
+* [cite_start]Falha em uma câmera crítica durante seu turno[cite: 103].
+* [cite_start]Sobrecarga de atenção, monitorando várias telas ao mesmo tempo[cite: 104].
+* [cite_start]Sistema lento para registrar ocorrências em situações urgentes[cite: 105].
+* [cite_start]Ser responsabilizado por algo que não estava sob seu controle[cite: 106].
+* [cite_start]Comunicação falha entre operadores em trocas de plantão[cite: 107].
+
+[cite_start]**Ganhos (Necessidades, Benefícios esperados)** [cite: 108]
+* [cite_start]Sistema rápido e confiável, que não trave em situações críticas[cite: 109].
+* [cite_start]Histórico completo e transparente, protegendo sua atuação[cite: 110].
+* [cite_start]Interface clara, com alertas visuais fáceis de identificar[cite: 111].
+* [cite_start]Integração fluida com a equipe de segurança, reduzindo o tempo de resposta[cite: 112].
+* [cite_start]Sensação de dever cumprido ao encerrar o turno com tudo registrado e em ordem[cite: 113].
+
+
  
 - Determine o mapa de empatia[1] de pelo menos uma persona primária e uma sercundária.
 
