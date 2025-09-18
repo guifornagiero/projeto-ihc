@@ -26,6 +26,7 @@ GOAL 0: Cadastrar novo usuário
 <br> (SEL. RULE: falha no envio mas sistema permite cadastro mesmo assim)
 
 ### CTT
+<img width="1299" height="690" alt="image" src="https://github.com/user-attachments/assets/caaeaaaa-17b2-43e3-90e4-d59d2be36890" />
 
 ## 2. Cadastro de Câmera
 
