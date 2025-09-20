@@ -50,3 +50,13 @@ GOAL 0: Cadastrar câmera
 <br> (SEL. RULE: O sistema não consegue salvar os dados devido a um erro, como ID duplicado ou falha de conexão com o banco de dados)
 
 ### CTT
+
+
+## 3. Gerar Relatório de Fluxo de Passageiros
+
+### HTA
+![cta3](https://github.com/user-attachments/assets/fff0fae6-d2ac-4ea2-ab4f-5178b2b7ab64)
+
+### GOMS
+
+### CTT
