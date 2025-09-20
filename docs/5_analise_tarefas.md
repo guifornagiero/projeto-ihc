@@ -58,5 +58,24 @@ GOAL 0: Cadastrar câmera
 ![cta3](https://github.com/user-attachments/assets/fff0fae6-d2ac-4ea2-ab4f-5178b2b7ab64)
 
 ### GOMS
+GOAL 0: Gerar Relatório de Fluxo de Passageiros
+<br> GOAL 1: Definir parâmetros para a consulta do relatório
+<br> METHOD 1.A: Selecionar período da análise
+<br> (SEL. RULE: O usuário deve informar uma data de início e uma data de fim para a consulta)
+<br> METHOD 1.B: Selecionar estações de origem e destino
+<br> (SEL. RULE: As estações devem ser selecionadas a partir de uma lista pré-definida no sistema)
+<br> GOAL 2: Submeter consulta e visualizar o relatório
+<br> METHOD 2.A: Acionar a geração do relatório
+<br> (SEL. RULE: A consulta é enviada para o sistema e os dados são exibidos na tela após o processamento)
+<br> GOAL 3: Receber confirmação da geração do relatório
+<br> METHOD 3.A: Exibir relatório com os dados solicitados
+<br> (SEL. RULE: O sistema encontrou e processou os dados com sucesso para os filtros informados)
+<br> METHOD 3.B: Exibir aviso de erro ou ausência de dados
+<br> (SEL. RULE: O sistema não encontrou dados para o período/trajeto solicitado ou ocorreu uma falha na consulta)
+<br> GOAL 4: Exportar dados do relatório
+<br> (SEL. RULE: O arquivo é exportado no computador do usuário)
+
+
 
 ### CTT
+![ctt3](https://github.com/user-attachments/assets/d2f9536d-d0d5-4dcc-ba48-73f1fadc1d14)
