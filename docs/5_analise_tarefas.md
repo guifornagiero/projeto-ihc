@@ -91,6 +91,21 @@ Essa funcionalidade permite que administradores visualizem um log completo das a
 ![hta-gian](https://github.com/user-attachments/assets/ad8d5562-4e32-4f57-83c3-515c157c69b4)
 
 ### GOMS
-
+GOAL 0: Consultar o histórico de ações de um usuário
+<br> GOAL 1: Acessar a tela de histórico
+<br> METHOD 1.A: Navegar pelo menu principal e clicar na opção "Logs"
+<br>(SEL. RULE: O usuário deve ter permissão de administrador para acessar esta área do sistema)
+<br> GOAL 2: Filtrar os resultados da busca
+<br> METHOD 2.A: Definir um intervalo de datas e acionar o filtro
+<br> (SEL. RULE: O usuário informa uma data de início e fim para limitar os registros a um período específico)
+<br> GOAL 3: Analisar os dados apresentados
+<br> METHOD 3.A: Ler a lista de ações na tela
+<br> (SEL. RULE: O sistema exibe a lista de eventos em ordem cronológica)
+<br> METHOD 3.B: Clicar em uma entrada para ver mais detalhes
+<br> (SEL. RULE: SE uma ação específica precisar de investigação, o usuário clica para obter informações adicionais como endereço IP)
+<br> GOAL 4: Exportar o relatório de histórico
+<br> METHOD 4.A: Acionar a exportação dos dados
+<br> (SEL. RULE: O arquivo com os dados atualmente exibidos na tela é gerado e salvo no computador do usuário)
+ 
 ### CTT
 
