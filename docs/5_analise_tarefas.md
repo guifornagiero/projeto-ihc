@@ -82,7 +82,7 @@ GOAL 0: Gerar Relatório de Fluxo de Passageiros
 <img width="722" height="381" alt="Screenshot 2025-09-20 at 8 16 49 PM" src="https://github.com/user-attachments/assets/c2f095b2-fb83-4c33-a71d-3365f5b4a3f1" />
 
 
-## 4. Consultar Histórico de ações de usuário
+## 4. Consultar histórico de ações de usuário
 
 ### HTA
 
