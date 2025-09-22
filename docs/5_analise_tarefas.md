@@ -85,7 +85,7 @@ GOAL 0: Gerar Relatório de Fluxo de Passageiros
 ## 4. Consultar histórico de ações de usuário
 
 ### HTA
-![htag](https://github.com/user-attachments/assets/db18fbd4-a526-4946-a243-2fc5c82dbc39)
+![hta-gian](https://github.com/user-attachments/assets/ad8d5562-4e32-4f57-83c3-515c157c69b4)
 
 ### GOMS
 
