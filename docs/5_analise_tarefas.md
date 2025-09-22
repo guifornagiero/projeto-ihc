@@ -86,6 +86,7 @@ GOAL 0: Gerar Relatório de Fluxo de Passageiros
 
 ### HTA
 ![hta-gian](https://github.com/user-attachments/assets/8936ad6b-3f53-4233-aab8-697b25d5106f)
+![Diagrama sem nome (3)](https://github.com/user-attachments/assets/c4403827-76b7-43b7-8228-4df6cca035bf)
 
 ### GOMS
 
