@@ -108,4 +108,7 @@ GOAL 0: Consultar o histórico de ações de um usuário
 <br> (SEL. RULE: O arquivo com os dados atualmente exibidos na tela é gerado e salvo no computador do usuário)
  
 ### CTT
+O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigatória de acessar os dados para depois habilitar as demais ações. Em seguida, o modelo ilustra a flexibilidade que o usuário possui para filtrar, analisar e exportar as informações, tarefas que podem ser executadas de forma independente e em qualquer ordem.
+
+![ctt](https://github.com/user-attachments/assets/f7ef8300-a79b-40de-b317-7db0dfbe6e5e)
 
