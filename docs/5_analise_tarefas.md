@@ -85,6 +85,9 @@ GOAL 0: Gerar Relatório de Fluxo de Passageiros
 ## 4. Consultar histórico de ações de usuário
 
 ### HTA
+Essa funcionalidade permite que administradores visualizem um log completo das atividades dos usuários no sistema, como quem fez login ou ativou uma câmera e quando isso ocorreu. A análise abaixo demonstra o fluxo que o administrador segue para encontrar, filtrar e exportar essas informações para fins de segurança e auditoria.
+
+
 ![hta-gian](https://github.com/user-attachments/assets/ad8d5562-4e32-4f57-83c3-515c157c69b4)
 
 ### GOMS
