@@ -32,29 +32,16 @@ GOAL 0: Cadastrar novo usuário
 
 ### HTA
 <img width="1337" height="480" alt="image" src="https://github.com/user-attachments/assets/8eba7f6b-1787-407c-8d5d-bf59853ab1d4" />
-<br>
 
-### Cadastrar Câmera
-* **Input:** O usuário inicia a tarefa ao acessar o formulário de cadastro de câmeras.
-* **Feedback:** A câmera cadastrada é adicionada à lista de equipamentos do sistema.
-* **Plano:** Realizar a operação 1, depois a 2 e, em seguida, a 3.
-* **Recomendação:** O sistema deve oferecer um fluxo de navegação simples para que o usuário possa seguir as etapas de cadastro sem confusão.
-
-### 1. Informar identificador, localização e estação da câmera
-* **Problema:** Um usuário pode inserir um ID que já existe no sistema, ou a descrição da localização ser ambígua.
-* **Recomendação:** Implementar uma validação em tempo real para o ID da câmera e utilizar campos de preenchimento automático para a estação.
-
-### 2. Enviar dados da câmera para o sistema
-* **Problema:** O envio dos dados pode falhar devido a problemas de conexão ou do servidor.
-* **Recomendação:** O sistema deve exibir mensagens de erro claras e informativas, orientando o usuário sobre o que fazer em caso de falha.
-
-### 3. Enviar mensagem informando sucesso no cadastramento
-* **Problema:** A mensagem de confirmação pode ser facilmente ignorada se for muito discreta ou temporária.
-* **Recomendação:** A mensagem de sucesso deve ser visualmente destacada e persistir na tela por tempo suficiente para garantir que o usuário a veja.
+| Objetivos/Operações | Problemas e Recomendações |
+| :--- | :--- |
+| **Cadastrar Câmera** | **Input:** O usuário inicia a tarefa ao acessar o formulário de cadastro de câmeras. <br> **Feedback:** A câmera cadastrada é adicionada à lista de equipamentos do sistema. <br> **Plano:** Realizar a operação 1, depois a 2 e, em seguida, a 3. <br> **Recomendação:** O sistema deve oferecer um fluxo de navegação simples para que o usuário possa seguir as etapas de cadastro sem confusão. |
+| **1. Informar identificador, localização e estação da câmera** | **Problema:** Um usuário pode inserir um ID que já existe no sistema, ou a descrição da localização ser ambígua. <br> **Recomendação:** Implementar uma validação em tempo real para o ID da câmera e utilizar campos de preenchimento automático para a estação. |
+| **2. Enviar dados da câmera para o sistema** | **Problema:** O envio dos dados pode falhar devido a problemas de conexão ou do servidor. <br> **Recomendação:** O sistema deve exibir mensagens de erro claras e informativas, orientando o usuário sobre o que fazer em caso de falha. |
+| **3. Enviar mensagem informando sucesso no cadastramento** | **Problema:** A mensagem de confirmação pode ser facilmente ignorada se for muito discreta ou temporária. <br> **Recomendação:** A mensagem de sucesso deve ser visualmente destacada e persistir na tela por tempo suficiente para garantir que o usuário a veja. |
 
 ### GOMS
 * **GOAL 0: Cadastrar Câmera**
-
      * **GOAL 1: Inserir identificador, localização e estação da câmera**
          * **METHOD 1.A:** Digitar ID e localização
              * (SEL. RULE: O ID deve ser único para o sistema e a localização deve ser descrita de forma textual)
@@ -72,14 +59,12 @@ GOAL 0: Cadastrar novo usuário
              * OP. 1.B.3: Deslocar o cursor para a estação desejada
              * OP. 1.B.4: Clicar na estação
              * OP. 1.B.5: Verificar se a estação selecionada está correta
- 
      * **GOAL 2: Enviar dados da câmera para o sistema**
          * **METHOD 2.A:** Salvar e enviar os dados da câmera
              * (SEL. RULE: Os dados são submetidos para processamento e salvos no banco de dados)
              * OP. 2.A.1: Deslocar o cursor para o botão "Salvar" ou "Cadastrar"
              * OP. 2.A.2: Clicar no botão
              * OP. 2.A.3: Aguardar a resposta do sistema
- 
      * **GOAL 3: Enviar mensagem confirmando sucesso no cadastramento**
          * **METHOD 3.A:** Exibir a mensagem de sucesso na tela
              * (SEL. RULE: Os dados foram salvos com sucesso e o sistema confirma o cadastramento)
@@ -160,7 +145,7 @@ O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigat
 
 | Objetivos/Operações | Problemas e Recomendações |
 | :--- | :--- |
-| ** Consultar Logs de Câmera** | **Input:** O usuário acessa a interface de consulta de logs. <br> **Feedback:** Os logs de atividades da câmera são exibidos na tela. <br> **Plano:** Realizar a operação 1, depois a 2 e, em seguida, a 3. <br> **Recomendação:** O sistema deve oferecer um fluxo de navegação simples para que o usuário possa seguir as etapas da consulta. |
+| **Consultar Logs de Câmera** | **Input:** O usuário acessa a interface de consulta de logs. <br> **Feedback:** Os logs de atividades da câmera são exibidos na tela. <br> **Plano:** Realizar a operação 1, depois a 2 e, em seguida, a 3. <br> **Recomendação:** O sistema deve oferecer um fluxo de navegação simples para que o usuário possa seguir as etapas da consulta. |
 | **1. Informar critérios de busca** | **Plano:** Realizar a operação 1.1 e 1.2 em paralelo. <br> **Problema:** A seleção de múltiplos critérios pode ser confusa. <br> **Recomendação:** Use campos de autocompletar e seletores de data e hora para facilitar a entrada de dados. |
 | **1.1 Informar identificador, localização e estação da câmera** | **Problema:** O usuário pode não saber o ID exato da câmera. <br> **Recomendação:** Permita que a busca seja feita por nome da estação ou localização. |
 | **1.2 Informar data e hora do período a ser consultado** | **Problema:** A seleção de data e hora pode ser confusa. <br> **Recomendação:** Forneça opções de atalho, como "Últimas 24h", "Últimos 7 dias", ou "Último mês". |
@@ -169,3 +154,30 @@ O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigat
 | **3.1 Exibir lista de logs** | **Problema:** A grande quantidade de logs pode dificultar a análise. <br> **Recomendação:** Apresente os resultados de forma clara, com colunas bem definidas para cada tipo de informação. |
 | **3.2 Filtrar logs (ex: "Acessos", "Erros")** | **Problema:** O usuário precisa de uma forma eficiente para encontrar informações específicas. <br> **Recomendação:** Adicione filtros por tipo de evento e por nível de severidade. |
 | **3.3 Exportar logs para um arquivo** | **Problema:** O usuário pode precisar dos dados para análise externa. <br> **Recomendação:** Forneça a opção de exportar os dados para formatos comuns como CSV ou Excel. |
+
+### GOMS
+* **GOAL 0: Consultar logs de câmera**
+    * **GOAL 1: Informar os critérios de busca**
+        * **METHOD 1.A:** Digitar ID e selecionar período
+            * (SEL. RULE: O usuário sabe o ID exato da câmera e o período de interesse)
+            * OP. 1.A.1: Deslocar o cursor para o campo de ID
+            * OP. 1.A.2: Clicar no campo
+            * OP. 1.A.3: Digitar o ID da câmera
+            * OP. 1.A.4: Deslocar o cursor para o campo de período
+            * OP. 1.A.5: Clicar no campo
+            * OP. 1.A.6: Selecionar a data e hora de início e fim
+    * **GOAL 2: Enviar a requisição de consulta**
+        * **METHOD 2.A:** Clicar para consultar
+            * (SEL. RULE: O usuário preencheu todos os campos necessários)
+            * OP. 2.A.1: Deslocar o cursor para o botão "Consultar"
+            * OP. 2.A.2: Clicar no botão
+            * OP. 2.A.3: Aguardar a resposta do sistema
+    * **GOAL 3: Visualizar os resultados da consulta**
+        * **METHOD 3.A:** Exibir os logs na tela
+            * (SEL. RULE: A consulta foi concluída com sucesso)
+            * OP. 3.A.1: O sistema exibe os resultados (ação do sistema)
+            * OP. 3.A.2: O usuário lê e interpreta os logs
+        * **METHOD 3.B:** Exibir aviso de erro
+            * (SEL. RULE: Nenhum log foi encontrado ou houve uma falha na consulta)
+            * OP. 3.B.1: O sistema exibe a mensagem de erro (ação do sistema)
+            * OP. 3.B.2: O usuário lê a mensagem e entende o problema
