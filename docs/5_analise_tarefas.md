@@ -141,7 +141,8 @@ O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigat
 ## 5. Consultar Logs de Câmera
 
 ### HTA
-<img width="1309" height="444" alt="image" src="https://github.com/user-attachments/assets/f6bac6be-36c0-41b8-9227-fb275928cf34" />
+<img width="1303" height="444" alt="image" src="https://github.com/user-attachments/assets/b4906e26-5ae8-4258-bf38-df0c85b81314" />
+
 
 | Objetivos/Operações | Problemas e Recomendações |
 | :--- | :--- |
@@ -181,3 +182,5 @@ O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigat
             * (SEL. RULE: Nenhum log foi encontrado ou houve uma falha na consulta)
             * OP. 3.B.1: O sistema exibe a mensagem de erro (ação do sistema)
             * OP. 3.B.2: O usuário lê a mensagem e entende o problema
+
+### CTT
