@@ -32,50 +32,61 @@ GOAL 0: Cadastrar novo usuário
 
 ### HTA
 <img width="1337" height="480" alt="image" src="https://github.com/user-attachments/assets/8eba7f6b-1787-407c-8d5d-bf59853ab1d4" />
-| Objetivos/Operações | Problemas e Recomendações |
-| :--- | :--- |
-| **0. Cadastrar Câmera** | **Input:** O usuário inicia a tarefa ao acessar o formulário de cadastro de câmeras. <br> **Feedback:** A câmera cadastrada é adicionada à lista de equipamentos do sistema. <br> **Plano:** Realizar a operação 1, depois a 2 e, em seguida, a 3. <br> **Recomendação:** O sistema deve oferecer um fluxo de navegação simples para que o usuário possa seguir as etapas de cadastro sem confusão. |
-| **1. Informar identificador, localização e estação da câmera** | **Problema:** Um usuário pode inserir um ID que já existe no sistema, ou a descrição da localização ser ambígua. <br> **Recomendação:** Implementar uma validação em tempo real para o ID da câmera e utilizar campos de preenchimento automático para a estação. |
-| **2. Enviar dados da câmera para o sistema** | **Problema:** O envio dos dados pode falhar devido a problemas de conexão ou do servidor. <br> **Recomendação:** O sistema deve exibir mensagens de erro claras e informativas, orientando o usuário sobre o que fazer em caso de falha. |
-| **3. Enviar mensagem informando sucesso no cadastramento** | **Problema:** A mensagem de confirmação pode ser facilmente ignorada se for muito discreta ou temporária. <br> **Recomendação:** A mensagem de sucesso deve ser visualmente destacada e persistir na tela por tempo suficiente para garantir que o usuário a veja. |
+### 0. Cadastrar Câmera
+* **Input:** O usuário inicia a tarefa ao acessar o formulário de cadastro de câmeras.
+* **Feedback:** A câmera cadastrada é adicionada à lista de equipamentos do sistema.
+* **Plano:** Realizar a operação 1, depois a 2 e, em seguida, a 3.
+* **Recomendação:** O sistema deve oferecer um fluxo de navegação simples para que o usuário possa seguir as etapas de cadastro sem confusão.
+
+### 1. Informar identificador, localização e estação da câmera
+* **Problema:** Um usuário pode inserir um ID que já existe no sistema, ou a descrição da localização ser ambígua.
+* **Recomendação:** Implementar uma validação em tempo real para o ID da câmera e utilizar campos de preenchimento automático para a estação.
+
+### 2. Enviar dados da câmera para o sistema
+* **Problema:** O envio dos dados pode falhar devido a problemas de conexão ou do servidor.
+* **Recomendação:** O sistema deve exibir mensagens de erro claras e informativas, orientando o usuário sobre o que fazer em caso de falha.
+
+### 3. Enviar mensagem informando sucesso no cadastramento
+* **Problema:** A mensagem de confirmação pode ser facilmente ignorada se for muito discreta ou temporária.
+* **Recomendação:** A mensagem de sucesso deve ser visualmente destacada e persistir na tela por tempo suficiente para garantir que o usuário a veja.
 
 ### GOMS
 * **GOAL 0: Cadastrar Câmera**
 
      * **GOAL 1: Inserir identificador, localização e estação da câmera**
-     * **METHOD 1.A:** Digitar ID e localização
-         * (SEL. RULE: O ID deve ser único para o sistema e a localização deve ser descrita de forma textual)
-         * OP. 1.A.1: Deslocar o cursor do mouse para o campo de ID
-         * OP. 1.A.2: Clicar no campo
-         * OP. 1.A.3: Digitar o ID da câmera
-         * OP. 1.A.4: Deslocar o cursor para o campo de localização
-         * OP. 1.A.5: Clicar no campo
-         * OP. 1.A.6: Digitar a localização
-         * OP. 1.A.7: Preparação mental para a próxima ação
-     * **METHOD 1.B:** Selecionar estação
-         * (SEL. RULE: Estações são pré-definidas no sistema)
-         * OP. 1.B.1: Deslocar o cursor para o campo de estação
-         * OP. 1.B.2: Clicar no campo para abrir a lista suspensa
-         * OP. 1.B.3: Deslocar o cursor para a estação desejada
-         * OP. 1.B.4: Clicar na estação
-         * OP. 1.B.5: Verificar se a estação selecionada está correta
+         * **METHOD 1.A:** Digitar ID e localização
+             * (SEL. RULE: O ID deve ser único para o sistema e a localização deve ser descrita de forma textual)
+             * OP. 1.A.1: Deslocar o cursor do mouse para o campo de ID
+             * OP. 1.A.2: Clicar no campo
+             * OP. 1.A.3: Digitar o ID da câmera
+             * OP. 1.A.4: Deslocar o cursor para o campo de localização
+             * OP. 1.A.5: Clicar no campo
+             * OP. 1.A.6: Digitar a localização
+             * OP. 1.A.7: Preparação mental para a próxima ação
+         * **METHOD 1.B:** Selecionar estação
+             * (SEL. RULE: Estações são pré-definidas no sistema)
+             * OP. 1.B.1: Deslocar o cursor para o campo de estação
+             * OP. 1.B.2: Clicar no campo para abrir a lista suspensa
+             * OP. 1.B.3: Deslocar o cursor para a estação desejada
+             * OP. 1.B.4: Clicar na estação
+             * OP. 1.B.5: Verificar se a estação selecionada está correta
  
      * **GOAL 2: Enviar dados da câmera para o sistema**
-     * **METHOD 2.A:** Salvar e enviar os dados da câmera
-         * (SEL. RULE: Os dados são submetidos para processamento e salvos no banco de dados)
-         * OP. 2.A.1: Deslocar o cursor para o botão "Salvar" ou "Cadastrar"
-         * OP. 2.A.2: Clicar no botão
-         * OP. 2.A.3: Aguardar a resposta do sistema
+         * **METHOD 2.A:** Salvar e enviar os dados da câmera
+             * (SEL. RULE: Os dados são submetidos para processamento e salvos no banco de dados)
+             * OP. 2.A.1: Deslocar o cursor para o botão "Salvar" ou "Cadastrar"
+             * OP. 2.A.2: Clicar no botão
+             * OP. 2.A.3: Aguardar a resposta do sistema
  
      * **GOAL 3: Enviar mensagem confirmando sucesso no cadastramento**
-     * **METHOD 3.A:** Exibir a mensagem de sucesso na tela
-         * (SEL. RULE: Os dados foram salvos com sucesso e o sistema confirma o cadastramento)
-         * OP. 3.A.1: O sistema exibe a mensagem (ação do sistema)
-         * OP. 3.A.2: O usuário lê a mensagem
-     * **METHOD 3.B:** Exibir aviso de falha
-         * (SEL. RULE: O sistema não consegue salvar os dados devido a um erro, como ID duplicado ou falha de conexão com o banco de dados)
-         * OP. 3.B.1: O sistema exibe a mensagem de erro (ação do sistema)
-         * OP. 3.B.2: O usuário lê a mensagem e entende o problema
+         * **METHOD 3.A:** Exibir a mensagem de sucesso na tela
+             * (SEL. RULE: Os dados foram salvos com sucesso e o sistema confirma o cadastramento)
+             * OP. 3.A.1: O sistema exibe a mensagem (ação do sistema)
+             * OP. 3.A.2: O usuário lê a mensagem
+         * **METHOD 3.B:** Exibir aviso de falha
+             * (SEL. RULE: O sistema não consegue salvar os dados devido a um erro, como ID duplicado ou falha de conexão com o banco de dados)
+             * OP. 3.B.1: O sistema exibe a mensagem de erro (ação do sistema)
+             * OP. 3.B.2: O usuário lê a mensagem e entende o problema
 
 ### CTT
 <img width="1291" height="497" alt="image" src="https://github.com/user-attachments/assets/5c851192-e5af-41ea-bc7f-22fed32358ff" />
