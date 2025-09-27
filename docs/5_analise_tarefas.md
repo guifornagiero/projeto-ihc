@@ -184,3 +184,4 @@ O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigat
             * OP. 3.B.2: O usuário lê a mensagem e entende o problema
 
 ### CTT
+<img width="1297" height="602" alt="image" src="https://github.com/user-attachments/assets/b0c98c8a-831b-49c3-9c90-13bb921bdc33" />
