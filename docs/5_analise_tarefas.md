@@ -153,3 +153,19 @@ O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigat
 
 ![ctt](https://github.com/user-attachments/assets/f7ef8300-a79b-40de-b317-7db0dfbe6e5e)
 
+## 5. Consultar Logs de Câmera
+
+### HTA
+<img width="1309" height="444" alt="image" src="https://github.com/user-attachments/assets/f6bac6be-36c0-41b8-9227-fb275928cf34" />
+
+| Objetivos/Operações | Problemas e Recomendações |
+| :--- | :--- |
+| ** Consultar Logs de Câmera** | **Input:** O usuário acessa a interface de consulta de logs. <br> **Feedback:** Os logs de atividades da câmera são exibidos na tela. <br> **Plano:** Realizar a operação 1, depois a 2 e, em seguida, a 3. <br> **Recomendação:** O sistema deve oferecer um fluxo de navegação simples para que o usuário possa seguir as etapas da consulta. |
+| **1. Informar critérios de busca** | **Plano:** Realizar a operação 1.1 e 1.2 em paralelo. <br> **Problema:** A seleção de múltiplos critérios pode ser confusa. <br> **Recomendação:** Use campos de autocompletar e seletores de data e hora para facilitar a entrada de dados. |
+| **1.1 Informar identificador, localização e estação da câmera** | **Problema:** O usuário pode não saber o ID exato da câmera. <br> **Recomendação:** Permita que a busca seja feita por nome da estação ou localização. |
+| **1.2 Informar data e hora do período a ser consultado** | **Problema:** A seleção de data e hora pode ser confusa. <br> **Recomendação:** Forneça opções de atalho, como "Últimas 24h", "Últimos 7 dias", ou "Último mês". |
+| **2. Enviar critérios e requisição de consulta** | **Problema:** A consulta pode levar muito tempo para ser processada. <br> **Recomendação:** O sistema deve exibir um indicador de carregamento e um tempo estimado para a conclusão da busca. |
+| **3. Visualizar o conteúdo da consulta** | **Plano:** O usuário pode exibir a lista de logs e realizar ações como filtrar e exportar. <br> **Recomendação:** Apresentar os resultados em uma tabela paginada com opções de filtro e ordenação. |
+| **3.1 Exibir lista de logs** | **Problema:** A grande quantidade de logs pode dificultar a análise. <br> **Recomendação:** Apresente os resultados de forma clara, com colunas bem definidas para cada tipo de informação. |
+| **3.2 Filtrar logs (ex: "Acessos", "Erros")** | **Problema:** O usuário precisa de uma forma eficiente para encontrar informações específicas. <br> **Recomendação:** Adicione filtros por tipo de evento e por nível de severidade. |
+| **3.3 Exportar logs para um arquivo** | **Problema:** O usuário pode precisar dos dados para análise externa. <br> **Recomendação:** Forneça a opção de exportar os dados para formatos comuns como CSV ou Excel. |
