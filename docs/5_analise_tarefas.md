@@ -42,7 +42,7 @@ GOAL 0: Cadastrar novo usuário
 ### GOMS
 * **GOAL 0: Cadastrar Câmera**
 
- * **GOAL 1: Inserir identificador, localização e estação da câmera**
+     * **GOAL 1: Inserir identificador, localização e estação da câmera**
      * **METHOD 1.A:** Digitar ID e localização
          * (SEL. RULE: O ID deve ser único para o sistema e a localização deve ser descrita de forma textual)
          * OP. 1.A.1: Deslocar o cursor do mouse para o campo de ID
@@ -60,14 +60,14 @@ GOAL 0: Cadastrar novo usuário
          * OP. 1.B.4: Clicar na estação
          * OP. 1.B.5: Verificar se a estação selecionada está correta
  
- * **GOAL 2: Enviar dados da câmera para o sistema**
+     * **GOAL 2: Enviar dados da câmera para o sistema**
      * **METHOD 2.A:** Salvar e enviar os dados da câmera
          * (SEL. RULE: Os dados são submetidos para processamento e salvos no banco de dados)
          * OP. 2.A.1: Deslocar o cursor para o botão "Salvar" ou "Cadastrar"
          * OP. 2.A.2: Clicar no botão
          * OP. 2.A.3: Aguardar a resposta do sistema
  
- * **GOAL 3: Enviar mensagem confirmando sucesso no cadastramento**
+     * **GOAL 3: Enviar mensagem confirmando sucesso no cadastramento**
      * **METHOD 3.A:** Exibir a mensagem de sucesso na tela
          * (SEL. RULE: Os dados foram salvos com sucesso e o sistema confirma o cadastramento)
          * OP. 3.A.1: O sistema exibe a mensagem (ação do sistema)
