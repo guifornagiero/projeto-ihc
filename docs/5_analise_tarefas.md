@@ -32,6 +32,7 @@ GOAL 0: Cadastrar novo usuário
 
 ### HTA
 <img width="1337" height="480" alt="image" src="https://github.com/user-attachments/assets/8eba7f6b-1787-407c-8d5d-bf59853ab1d4" />
+<br>
 ### 0. Cadastrar Câmera
 * **Input:** O usuário inicia a tarefa ao acessar o formulário de cadastro de câmeras.
 * **Feedback:** A câmera cadastrada é adicionada à lista de equipamentos do sistema.
