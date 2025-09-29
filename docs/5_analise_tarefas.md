@@ -111,27 +111,51 @@ GOAL 0: Gerar Relatório de Fluxo de Passageiros
 ## 4. Consultar histórico de ações de usuário
 
 ### HTA
-Essa funcionalidade permite que administradores visualizem um log completo das atividades dos usuários no sistema, como quem fez login ou ativou uma câmera e quando isso ocorreu. A análise abaixo demonstra o fluxo que o administrador segue para encontrar, filtrar e exportar essas informações para fins de segurança e auditoria.
-
-
 ![hta-gian](https://github.com/user-attachments/assets/ad8d5562-4e32-4f57-83c3-515c157c69b4)
+| Objetivos/Operações | Problemas e Recomendações |
+| :--- | :--- |
+| **Consultar histórico de ações de usuário** | **Input:** O administrador acessa a área de logs do sistema. <br> **Feedback:** O sistema exibe o histórico de atividades dos usuários. <br> **Plano:** Realizar a operação 1, e então as operações 2, 3 e 4 ficam disponíveis para execução em qualquer ordem. <br> **Recomendação:** A interface deve ser clara e eficiente, permitindo que um administrador encontre rapidamente as informações necessárias para uma auditoria. |
+| **1. Acessar tela de histórico de ações** | **Problema:** A funcionalidade de logs pode estar escondida em menus complexos, dificultando o acesso rápido em caso de uma investigação de segurança. <br> **Recomendação:** A opção "Logs" ou "Histórico de Ações" deve estar em um local de destaque no painel de administração. |
+| **2. Aplicar filtros de busca** | **Problema:** A ausência de filtros detalhados (ex: por tipo de ação, por usuário específico) pode tornar a busca por um evento particular muito demorada. <br> **Recomendação:** Implementar múltiplos filtros, como campo de busca por nome de usuário, seletor de data/hora com atalhos ("Hoje", "Últimos 7 dias") e um dropdown para tipos de evento. |
+| **3. Analisar os resultados apresentados** | **Problema:** Uma grande quantidade de logs apresentada sem formatação ou paginação pode sobrecarregar o usuário. <br> **Recomendação:** Exibir os resultados em uma tabela paginada e com colunas ordenáveis. Ações críticas (ex: falha de login, exclusão de dados) podem ser destacadas com cores para facilitar a identificação. |
+| **4. Exportar o relatório de histórico**| **Problema:** O usuário pode precisar dos dados para análise externa ou para gerar relatórios de conformidade. <br> **Recomendação:** Oferecer a exportação dos dados filtrados em formatos comuns, como CSV e PDF, e exibir uma notificação de progresso durante a geração do arquivo. |
 
 ### GOMS
-GOAL 0: Consultar o histórico de ações de um usuário
-<br> GOAL 1: Acessar a tela de histórico
-<br> METHOD 1.A: Navegar pelo menu principal e clicar na opção "Logs"
-<br>(SEL. RULE: O usuário deve ter permissão de administrador para acessar esta área do sistema)
-<br> GOAL 2: Filtrar os resultados da busca
-<br> METHOD 2.A: Definir um intervalo de datas e acionar o filtro
-<br> (SEL. RULE: O usuário informa uma data de início e fim para limitar os registros a um período específico)
-<br> GOAL 3: Analisar os dados apresentados
-<br> METHOD 3.A: Ler a lista de ações na tela
-<br> (SEL. RULE: O sistema exibe a lista de eventos em ordem cronológica)
-<br> METHOD 3.B: Clicar em uma entrada para ver mais detalhes
-<br> (SEL. RULE: SE uma ação específica precisar de investigação, o usuário clica para obter informações adicionais como endereço IP)
-<br> GOAL 4: Exportar o relatório de histórico
-<br> METHOD 4.A: Acionar a exportação dos dados
-<br> (SEL. RULE: O arquivo com os dados atualmente exibidos na tela é gerado e salvo no computador do usuário)
+* **GOAL 0: Consultar o histórico de ações de um usuário**
+    * **GOAL 1: Acessar a tela de histórico**
+        * **METHOD 1.A:** Navegar pelo menu principal e clicar na opção "Logs"
+            * (SEL. RULE: O usuário deve ter permissão de administrador para acessar esta área do sistema)
+            * OP. 1.A.1: Deslocar o cursor para o menu de navegação principal (ex: "Administração")
+            * OP. 1.A.2: Clicar no menu para expandir as opções
+            * OP. 1.A.3: Deslocar o cursor para a opção "Logs" ou "Histórico"
+            * OP. 1.A.4: Clicar na opção
+            * OP. 1.A.5: Aguardar o carregamento da tela de histórico
+    * **GOAL 2: Filtrar os resultados da busca**
+        * **METHOD 2.A:** Definir um intervalo de datas e acionar o filtro
+            * (SEL. RULE: O usuário informa uma data de início e fim para limitar os registros a um período específico)
+            * OP. 2.A.1: Deslocar o cursor para o campo "Data de Início"
+            * OP. 2.A.2: Clicar no campo para abrir o seletor de data
+            * OP. 2.A.3: Selecionar a data de início desejada
+            * OP. 2.A.4: Repetir os passos para o campo "Data de Fim"
+            * OP. 2.A.5: Deslocar o cursor para o botão "Filtrar" ou "Buscar"
+            * OP. 2.A.6: Clicar no botão
+            * OP. 2.A.7: Aguardar a atualização dos resultados na tela
+    * **GOAL 3: Analisar os dados apresentados**
+        * **METHOD 3.A:** Ler a lista de ações na tela
+            * (SEL. RULE: O sistema exibe a lista de eventos em ordem cronológica)
+            * OP. 3.A.1: O sistema exibe a tabela de logs (ação do sistema)
+            * OP. 3.A.2: O usuário lê e interpreta os dados exibidos
+        * **METHOD 3.B:** Clicar em uma entrada para ver mais detalhes
+            * (SEL. RULE: SE uma ação específica precisar de investigação, o usuário clica para obter informações adicionais como endereço IP)
+            * OP. 3.B.1: Deslocar o cursor para a linha do log de interesse
+            * OP. 3.B.2: Clicar na linha para expandir ou abrir uma janela de detalhes
+            * OP. 3.B.3: Ler as informações detalhadas
+    * **GOAL 4: Exportar o relatório de histórico**
+        * **METHOD 4.A:** Acionar a exportação dos dados
+            * (SEL. RULE: O arquivo com os dados atualmente exibidos na tela é gerado e salvo no computador do usuário)
+            * OP. 4.A.1: Deslocar o cursor para o botão "Exportar"
+            * OP. 4.A.2: Clicar no botão
+            * OP. 4.A.3: Aguardar a geração e o download do arquivo
  
 ### CTT
 O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigatória de acessar os dados para depois habilitar as demais ações. Em seguida, o modelo ilustra a flexibilidade que o usuário possui para filtrar, analisar e exportar as informações, tarefas que podem ser executadas de forma independente e em qualquer ordem.
