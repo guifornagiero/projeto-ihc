@@ -6,24 +6,52 @@
 
 ### HTA
 <img width="1337" height="480" alt="image" src="https://github.com/user-attachments/assets/e7775ce4-bacc-416f-bf4e-1f2920efb55d" />
+| Objetivos/Operações | Problemas e Recomendações |
+| :--- | :--- |
+| **Cadastrar Usuário** | **Input:** O administrador acessa a funcionalidade de gerenciamento de usuários para adicionar um novo membro. <br> **Feedback:** Um novo usuário é criado no sistema e um e-mail de boas-vindas com a senha é enviado. <br> **Plano:** Realizar a operação 1, depois a 2 e, por fim, a 3. <br> **Recomendação:** O formulário deve ser claro, objetivo e indicar quais campos são obrigatórios para agilizar o processo. |
+| **1. Acessar o formulário de cadastro** | **Problema:** O botão para adicionar um novo usuário pode não ser facilmente localizável se a interface de gerenciamento de usuários for confusa. <br> **Recomendação:** O botão "Novo Usuário" deve ser um Call-to-Action (CTA) com destaque visual na tela principal de listagem de usuários. |
+| **2. Preencher os dados do usuário** | **Problema:** O administrador pode inserir um e-mail em formato inválido ou já existente. A diferença entre os perfis de acesso (admin, analista, operador) pode não ser clara. <br> **Recomendação:** Implementar validação de e-mail em tempo real (formato e duplicidade). Fornecer textos de ajuda que expliquem as permissões de cada perfil de acesso. |
+| **3. Salvar o cadastro** | **Problema:** O sistema pode falhar ao salvar ou ao enviar o e-mail, e o administrador pode não perceber o erro específico. <br> **Recomendação:** Exibir uma mensagem de sucesso clara. Em caso de falha (ex: no envio do e-mail), a mensagem deve informar o sucesso parcial e indicar os próximos passos (ex: "Usuário criado, mas falha ao enviar e-mail. Peça para o usuário usar a função 'Esqueci minha senha'"). |
 
 ### GOMS
-GOAL 0: Cadastrar novo usuário
-<br> GOAL 1: Inserir dados do usuário
-<br> METHOD 1.A: Digitar nome, e-mail
-<br> (SEL. RULE: Nome tem que ter apenas letras e e-mail tem que ser no formato de e-mail)
-<br> METHOD 1.B: Selecionar estação
-<br> (SEL. RULE: Estações são pré-definidas no sistema)
-<br> METHOD 1.C: Selecionar perfil de acesso
-<br> (SEL. RULE: Usuário escolhe entre admin, analista ou operador)
-<br> GOAL 2: Enviar e-mail com senha
-<br> METHOD 2.A: Gerar senha automática e enviar por e-mail
-<br> (SEL. RULE: política padrão do sistema)
-<br> GOAL 3: Confirmar sucesso do cadastro
-<br> METHOD 3.A: Mostrar mensagem de sucesso na tela
-<br> (SEL. RULE: dados salvos e e-mail enviado)
-<br> METHOD 3.B: Mostrar aviso parcial (sem e-mail enviado)
-<br> (SEL. RULE: falha no envio mas sistema permite cadastro mesmo assim)
+* **GOAL 0: Cadastrar novo usuário**
+    * **GOAL 1: Acessar o formulário de cadastro**
+        * **METHOD 1.A:** Navegar e abrir o formulário
+            * (SEL. RULE: O usuário precisa estar na área de gerenciamento de usuários)
+            * OP. 1.A.1: Deslocar o cursor para o botão "Novo Usuário"
+            * OP. 1.A.2: Clicar no botão
+            * OP. 1.A.3: Aguardar o carregamento do formulário de cadastro
+    * **GOAL 2: Inserir dados do usuário**
+        * **METHOD 2.A:** Digitar nome e e-mail
+            * (SEL. RULE: Nome tem que ter apenas letras e e-mail tem que ser no formato de e-mail)
+            * OP. 2.A.1: Deslocar o cursor para o campo "Nome"
+            * OP. 2.A.2: Clicar no campo
+            * OP. 2.A.3: Digitar o nome do usuário
+            * OP. 2.A.4: Deslocar o cursor para o campo "E-mail"
+            * OP. 2.A.5: Clicar no campo
+            * OP. 2.A.6: Digitar o e-mail do usuário
+        * **METHOD 2.B:** Selecionar estação
+            * (SEL. RULE: Estações são pré-definidas no sistema)
+            * OP. 2.B.1: Deslocar o cursor para a lista suspensa "Estação"
+            * OP. 2.B.2: Clicar para abrir a lista
+            * OP. 2.B.3: Deslocar o cursor para a estação desejada
+            * OP. 2.B.4: Clicar na estação
+        * **METHOD 2.C:** Selecionar perfil de acesso
+            * (SEL. RULE: Usuário escolhe entre admin, analista ou operador)
+            * OP. 2.C.1: Deslocar o cursor para a lista suspensa "Perfil de Acesso"
+            * OP. 2.C.2: Clicar para abrir a lista
+            * OP. 2.C.3: Deslocar o cursor para o perfil desejado
+            * OP. 2.C.4: Clicar no perfil
+    * **GOAL 3: Salvar o cadastro e confirmar**
+        * **METHOD 3.A:** Clicar para salvar
+            * (SEL. RULE: Todos os campos obrigatórios foram preenchidos corretamente)
+            * OP. 3.A.1: Deslocar o cursor para o botão "Salvar"
+            * OP. 3.A.2: Clicar no botão
+            * OP. 3.A.3: Aguardar a resposta do sistema
+        * **METHOD 3.B:** Confirmar sucesso do cadastro
+            * (SEL. RULE: Os dados foram salvos com sucesso e o e-mail foi enviado)
+            * OP. 3.B.1: O sistema exibe a mensagem de sucesso na tela (ação do sistema)
+            * OP. 3.B.2: O usuário lê a mensagem de confirmação
 
 ### CTT
 <img width="1299" height="690" alt="image" src="https://github.com/user-attachments/assets/caaeaaaa-17b2-43e3-90e4-d59d2be36890" />
