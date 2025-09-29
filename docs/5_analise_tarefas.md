@@ -113,23 +113,44 @@
 ### HTA
 ![cta3](https://github.com/user-attachments/assets/fff0fae6-d2ac-4ea2-ab4f-5178b2b7ab64)
 
+| Objetivos/Operações | Problemas e Recomendações |
+| :--- | :--- |
+| **Gerar Relatório de Fluxo de Passageiros** | **Input:** O usuário (analista ou administrador) acessa a funcionalidade de geração de relatórios. <br> **Feedback:** O sistema exibe um relatório com dados visuais (gráficos) e tabulados sobre o fluxo de passageiros. <br> **Plano:** Realizar a operação 1, depois a 2. A operação 3 (exportar) é opcional e pode ser realizada após a 2. <br> **Recomendação:** A interface deve ser intuitiva, permitindo que o usuário gere relatórios complexos com poucos cliques e visualize os dados de forma clara. |
+| **1. Definir parâmetros para a consulta do relatório** | **Problema:** Selecionar datas em um calendário e estações em listas muito longas pode ser um processo lento e propenso a erros. <br> **Recomendação:** Implementar seletores de data com atalhos (ex: "Últimos 30 dias", "Este Mês") e campos de busca com autocompletar para as estações. |
+| **2. Submeter consulta e visualizar o relatório** | **Problema:** Se o volume de dados for grande, a geração do relatório pode ser demorada, fazendo o usuário pensar que o sistema travou. A apresentação dos dados pode ser confusa. <br> **Recomendação:** Exibir um indicador de carregamento durante o processamento. Apresentar os resultados em um dashboard visual, com gráficos interativos e tabelas ordenáveis. |
+| **3. Exportar dados do relatório** | **Problema:** O usuário pode precisar dos dados brutos para utilizar em outras ferramentas de análise (Excel, Power BI, etc.). <br> **Recomendação:** Oferecer a exportação dos dados em formatos versáteis como CSV e XLSX. A exportação deve sempre refletir os filtros que foram aplicados na tela. |
+
 ### GOMS
-GOAL 0: Gerar Relatório de Fluxo de Passageiros
-<br> GOAL 1: Definir parâmetros para a consulta do relatório
-<br> METHOD 1.A: Selecionar período da análise
-<br> (SEL. RULE: O usuário deve informar uma data de início e uma data de fim para a consulta)
-<br> METHOD 1.B: Selecionar estações de origem e destino
-<br> (SEL. RULE: As estações devem ser selecionadas a partir de uma lista pré-definida no sistema)
-<br> GOAL 2: Submeter consulta e visualizar o relatório
-<br> METHOD 2.A: Acionar a geração do relatório
-<br> (SEL. RULE: A consulta é enviada para o sistema e os dados são exibidos na tela após o processamento)
-<br> GOAL 3: Receber confirmação da geração do relatório
-<br> METHOD 3.A: Exibir relatório com os dados solicitados
-<br> (SEL. RULE: O sistema encontrou e processou os dados com sucesso para os filtros informados)
-<br> METHOD 3.B: Exibir aviso de erro ou ausência de dados
-<br> (SEL. RULE: O sistema não encontrou dados para o período/trajeto solicitado ou ocorreu uma falha na consulta)
-<br> GOAL 4: Exportar dados do relatório
-<br> (SEL. RULE: O arquivo é exportado no computador do usuário)
+* **GOAL 0: Gerar Relatório de Fluxo de Passageiros**
+    * **GOAL 1: Definir parâmetros para a consulta do relatório**
+        * **METHOD 1.A:** Selecionar período da análise
+            * (SEL. RULE: O usuário deve informar uma data de início e uma data de fim para a consulta)
+            * OP. 1.A.1: Deslocar o cursor para o campo "Data de Início"
+            * OP. 1.A.2: Clicar no campo para abrir o seletor de data
+            * OP. 1.A.3: Selecionar a data de início
+            * OP. 1.A.4: Repetir os passos para o campo "Data de Fim"
+        * **METHOD 1.B:** Selecionar estações de origem e destino
+            * (SEL. RULE: As estações devem ser selecionadas a partir de uma lista pré-definida no sistema)
+            * OP. 1.B.1: Deslocar o cursor para o campo "Estação de Origem"
+            * OP. 1.B.2: Clicar para abrir a lista suspensa ou digitar para buscar
+            * OP. 1.B.3: Selecionar a estação de origem na lista
+            * OP. 1.B.4: Repetir os passos para o campo "Estação de Destino"
+    * **GOAL 2: Submeter consulta e visualizar o relatório**
+        * **METHOD 2.A:** Acionar a geração do relatório
+            * (SEL. RULE: Todos os filtros necessários para a consulta foram preenchidos)
+            * OP. 2.A.1: Deslocar o cursor para o botão "Gerar Relatório"
+            * OP. 2.A.2: Clicar no botão
+            * OP. 2.A.3: Aguardar o processamento e a resposta do sistema
+        * **METHOD 2.B:** Visualizar o relatório gerado
+            * (SEL. RULE: O sistema encontrou e processou os dados com sucesso para os filtros informados)
+            * OP. 2.B.1: O sistema exibe os gráficos e a tabela do relatório (ação do sistema)
+            * OP. 2.B.2: O usuário lê e interpreta as informações visuais na tela
+    * **GOAL 3: Exportar dados do relatório (Opcional)**
+        * **METHOD 3.A:** Acionar a exportação dos dados
+            * (SEL. RULE: O usuário deseja salvar os dados brutos para análise externa)
+            * OP. 3.A.1: Deslocar o cursor para o botão "Exportar"
+            * OP. 3.A.2: Clicar no botão
+            * OP. 3.A.3: Aguardar a geração e o download do arquivo
 
 
 
@@ -187,7 +208,6 @@ GOAL 0: Gerar Relatório de Fluxo de Passageiros
             * OP. 4.A.3: Aguardar a geração e o download do arquivo
  
 ### CTT
-O diagrama abaixo detalha o fluxo de interação, mostrando a sequência obrigatória de acessar os dados para depois habilitar as demais ações. Em seguida, o modelo ilustra a flexibilidade que o usuário possui para filtrar, analisar e exportar as informações, tarefas que podem ser executadas de forma independente e em qualquer ordem.
 
 ![ctt](https://github.com/user-attachments/assets/f7ef8300-a79b-40de-b317-7db0dfbe6e5e)
 
