@@ -6,6 +6,7 @@
 
 ### HTA
 <img width="1337" height="480" alt="image" src="https://github.com/user-attachments/assets/e7775ce4-bacc-416f-bf4e-1f2920efb55d" />
+
 | Objetivos/Operações | Problemas e Recomendações |
 | :--- | :--- |
 | **Cadastrar Usuário** | **Input:** O administrador acessa a funcionalidade de gerenciamento de usuários para adicionar um novo membro. <br> **Feedback:** Um novo usuário é criado no sistema e um e-mail de boas-vindas com a senha é enviado. <br> **Plano:** Realizar a operação 1, depois a 2 e, por fim, a 3. <br> **Recomendação:** O formulário deve ser claro, objetivo e indicar quais campos são obrigatórios para agilizar o processo. |
