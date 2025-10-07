@@ -28,7 +28,7 @@
       * Prevenção de Erros Críticos: Funções administrativas, como cadastrar um novo usuário ou configurar uma câmera, devem ter um design que guie o usuário e exija confirmação para ações destrutivas, minimizando a chance de erros operacionais.
       * Consistência da Interface: Todos os módulos do sistema (dashboards, relatórios, configurações) devem seguir os mesmos padrões de design, terminologia e comportamento, reduzindo a carga cognitiva e acelerando a curva de aprendizado.
     
-
+<br>
 
    2. **Quantitativo**  
     
@@ -39,4 +39,5 @@
 | Facilidade de Aprendizado e Adoção | 15% | Foco em todos os usuários, especialmente os novos. O sistema precisa ser intuitivo para minimizar a necessidade de treinamentos extensos e garantir que seja rapidamente integrado à rotina de trabalho. Uma baixa curva de aprendizado reduz a resistência à nova ferramenta. |
 | Satisfação e Confiança Geral do Usuário | 10% | Foco na percepção geral de todos os usuários. Além de funcional, a interface deve ser confiável e agradável de usar. A satisfação do usuário impacta a aceitação da ferramenta a longo prazo e reflete a qualidade geral do design e da interação. |
 | **Total** | **100%** | 	A soma das prioridades representa o foco completo dos esforços de usabilidade do projeto. |
+
 
