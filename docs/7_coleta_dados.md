@@ -42,3 +42,21 @@ Sim, o projeto deverá considerar aspectos éticos de forma rigorosa. Qualquer p
 * Princípio da Justiça e Equidade: A pesquisa deve ter uma relevância social, que neste caso é a melhoria do sistema de transporte público através de ferramentas mais eficazes para seus operadores e gestores. Os benefícios (uma ferramenta melhor) devem ser compartilhados com os participantes, e o ônus da participação (o tempo dedicado) deve ser minimizado.  
 
 ## 3. Ferramentas de Coleta de Dados (três técnicas diferentes)
+
+### 3.1 Nome do instrumento: Questionário de Perfil de Usuário e Priorização de Funcionalidades.
+* Objetivo da aplicação:
+  * Validar o Perfil: Coletar dados demográficos e técnicos para confirmar e quantificar as características das personas.
+  * Mapear Dores Atuais: Entender, em uma escala maior, as principais dificuldades e frustrações dos usuários com os processos e ferramentas atuais.
+  * Medir o grau de importância que cada perfil de usuário atribui às funcionalidades propostas para a nova interface.
+
+* Explicar como aplicar:
+  * Criação da Ferramenta: O questionário será implementado na plataforma Google Forms, pois é de fácil acesso e permite a exportação dos dados para análise.
+  * Teste Piloto: Antes de enviar aos usuários do Metrô, o questionário será testado por 2 ou 3 pessoas da própria equipe do projeto para verificar se as perguntas são claras, se não há erros e se o tempo de preenchimento é adequado (idealmente entre 10-15 minutos).
+  * Recrutamento e Contato: O contato com os funcionários do Metrô será feito através do professor orientador ou de um ponto focal dentro da empresa. Será solicitada a distribuição do link para um grupo de funcionários que se enquadrem nos três perfis desejados.
+  * Aplicação: Um e-mail ou mensagem de convite será enviado aos participantes. Esta mensagem deve conter:
+    * O objetivo do projeto e da pesquisa.
+    * O tempo estimado para resposta.
+    * O Termo de Consentimento, garantindo anonimato, confidencialidade e o uso dos dados apenas para fins acadêmicos.
+    * O link para o questionário.
+  * Coleta e Análise: O questionário ficará disponível por um período determinado. Após o encerramento, os dados serão exportados, e as respostas serão segmentadas por perfil de usuário para análise comparativa. 
+* Instrumento: https://docs.google.com/forms/d/e/1FAIpQLSdZe7frUYFTtuKlD0lgFdDkp8FblTm7opph0tC6GPYdgpjnUA/viewform?usp=header
