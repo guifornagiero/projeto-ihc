@@ -106,20 +106,21 @@ Sim, o projeto deverá considerar aspectos éticos de forma rigorosa. Qualquer p
 * Instrumento: Roteiro/Agenda do Brainstorming
   * Participantes: Um grupo misto de 3 a 5 pessoas, incluindo pelo menos um de cada persona (Carlos, Mariana e João).
   1. Introdução e Apresentação do Problema (5 minutos)
-    * "Olá a todos, obrigado por virem. Hoje vamos fazer um exercício rápido e criativo. Como sabem, estamos projetando uma nova plataforma para integrar o monitoramento e a análise de dados. O problema que queremos resolver é: a informação está espalhada, os processos são manuais e a comunicação entre as equipes é lenta."
+     * "Olá a todos, obrigado por virem. Hoje vamos fazer um exercício rápido e criativo. Como sabem, estamos projetando uma nova plataforma para integrar o monitoramento e a análise de dados. O problema que queremos resolver é: a informação está espalhada, os processos são manuais e a comunicação entre as equipes é lenta."
 
   2. Geração de Ideias Individuais (10 minutos)
-    * "Agora, quero que cada um de vocês pense individualmente na seguinte pergunta: 'Se você tivesse uma varinha mágica para criar a ferramenta perfeita para o seu trabalho, o que ela faria por você?'"
+     * "Agora, quero que cada um de vocês pense individualmente na seguinte pergunta: 'Se você tivesse uma varinha mágica para criar a ferramenta perfeita para o seu trabalho, o que ela faria por você?'"
 "Escrevam cada ideia em um post-it separado. Tentem escrever o máximo de ideias que conseguirem."
 
   3. Compartilhamento e Agrupamento (20 minutos)
-    * "Ótimo. Agora, um de cada vez, por favor, leia suas ideias em voz alta e cole os post-its no quadro branco."
-    * (Enquanto eles colam, o moderador agrupa os post-its com ideias semelhantes em áreas do quadro, criando "grupos" como "Relatórios Automáticos", "Visualização de Câmeras", "Alertas", "Configuração Fácil").
+     * "Ótimo. Agora, um de cada vez, por favor, leia suas ideias em voz alta e cole os post-its no quadro branco."
+     * (Enquanto eles colam, o moderador agrupa os post-its com ideias semelhantes em áreas do quadro, criando "grupos" como "Relatórios Automáticos", "Visualização de Câmeras", "Alertas", "Configuração Fácil").
 
   4. Votação e Priorização (5 minutos)
-    * "Excelente! Temos muitas ideias boas aqui. Agora, vou dar a cada um de vocês 3 adesivos (ou 3 votos com uma caneta)."
-    * "Por favor, coloquem seus votos nas ideias ou grupos de ideias que vocês consideram mais importantes e urgentes."
+     * "Excelente! Temos muitas ideias boas aqui. Agora, vou dar a cada um de vocês 3 adesivos (ou 3 votos com uma caneta)."
+     * "Por favor, coloquem seus votos nas ideias ou grupos de ideias que vocês consideram mais importantes e urgentes."
 
   5. Encerramento (5 minutos)
-    * "Perfeito. Com isso, já temos uma visão clara do que é mais importante para vocês. Este material é extremamente útil e vai guiar nosso projeto."
-    * "Muito obrigado pela participação e por todas as ótimas ideias!"
+     * "Perfeito. Com isso, já temos uma visão clara do que é mais importante para vocês. Este material é extremamente útil e vai guiar nosso projeto."
+     * "Muito obrigado pela participação e por todas as ótimas ideias!"
+
