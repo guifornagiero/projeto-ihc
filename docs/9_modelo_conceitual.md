@@ -73,8 +73,8 @@ Carlos precisa se preparar para a reunião de diretoria. **Ele abre o sistema em
 | Câmera (CAM) - Dispositivo de captura de imagem instalado nas estações | | | | | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **signo** | **origem** | **observações** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** | **prevenção** / **recuperação** |
-| + id_camera | domínio | Identificador único do equipamento (ex: SEC-01-A). | texto | não pode ser nulo, único | — | **PP:** campo obrigatório / **RA:** informa se o ID já existe |
-| localizacao | domínio | Descrição física da posição da câmera (ex: Plataforma 1, sentido Jabaquara). | texto | não pode ser nulo | — | **PP:** campo obrigatório / **RA** |
+| + id_camera | domínio | Identificador único do equipamento. | texto | não pode ser nulo, único | — | **PP:** campo obrigatório / **RA:** informa se o ID já existe |
+| localizacao | domínio | Descrição física da posição da câmera. | texto | não pode ser nulo | — | **PP:** campo obrigatório / **RA** |
 | estacao | domínio | Estação do Metrô onde está instalada. | seleção simples | não pode ser nulo | — | **PA:** uma opção deve ser selecionada de uma lista pré-definida / **RA** |
 | status | aplicação | Indica se a câmera está ativa e transmitindo. | texto | {Online, Offline, Em Manutenção} | Offline | **PA:** status é atualizado automaticamente pelo sistema |
 | feed_video | aplicação | Fluxo de vídeo em tempo real. | vídeo | N/A | N/A | **CE:** exibe mensagem se o feed não puder ser carregado |
@@ -88,6 +88,7 @@ Carlos precisa se preparar para a reunião de diretoria. **Ele abre o sistema em
 | data_fim | domínio | Data de fim do período de análise. | data | não pode ser nulo, ≥ data_inicio | data atual | **PP+PA:** seletor de calendário / **RA** |
 | filtros_aplicados | domínio | Lista de filtros (estações, linhas, horários). | lista de texto | deve conter ao menos uma estação/linha | — | **PA:** botão "Gerar" desabilitado se filtros essenciais não forem preenchidos / **RA** |
 | status_geracao | aplicação | Indica o progresso da análise. | texto | {Em Andamento, Concluído, Falha} | — | **PA:** status atualizado automaticamente |
+
 
 
 
