@@ -60,3 +60,66 @@ Sim, o projeto deverá considerar aspectos éticos de forma rigorosa. Qualquer p
     * O link para o questionário.
   * Coleta e Análise: O questionário ficará disponível por um período determinado. Após o encerramento, os dados serão exportados, e as respostas serão segmentadas por perfil de usuário para análise comparativa. 
 * Instrumento: https://docs.google.com/forms/d/e/1FAIpQLSdZe7frUYFTtuKlD0lgFdDkp8FblTm7opph0tC6GPYdgpjnUA/viewform?usp=header
+
+### 3.2 Nome do instrumento: Observação Simples.
+
+* Objetivo de Aplicação:
+  * Entender o fluxo de trabalho real do usuário, incluindo interrupções e improvisos.
+  * Identificar problemas de usabilidade e ineficiências nas ferramentas atuais.
+  * Coletar dados contextuais que os usuários muitas vezes esquecem de mencionar em entrevistas.
+
+* Explicar como aplicar:
+  * Peça permissão para observar o usuário por um período, garantindo que você não vai atrapalhar e que não se trata de uma avaliação de desempenho.
+  * Sente-se ao lado ou um pouco atrás do usuário. Fique em silêncio na maior parte do tempo.
+  * Anote suas observações em um caderno ou notebook, seguindo o roteiro de pontos de atenção abaixo. Anote ações, ferramentas utilizadas e qualquer sinal de dúvida ou frustração.
+
+* Instrumento: Roteiro/Checklist de Observação
+  * Participantes: 1 ou 2 funcionários com o perfil de Analista de Dados (Mariana) e 1 ou 2 com o perfil de Operador de Câmeras (João).
+  * Para a Analista de Dados (Mariana):
+    * [ ] Quais softwares ela abre primeiro para começar a tarefa de criar um relatório?
+    * [ ] Quantas janelas diferentes ela precisa usar?
+    * [ ] Conte quantas vezes ela precisa copiar e colar informações entre diferentes programas.
+    * [ ] Anote qualquer momento em que ela pareça confusa, suspire ou demonstre frustração.
+    * [ ] Ela precisa contatar outra pessoa para pedir dados ou tirar dúvidas?
+    * [ ] Ela usa alguma ferramenta "não oficial" para se organizar?
+          
+  * Para o Operador de Câmeras (João):
+    * [ ] Como é o ambiente físico? Quantas telas ele olha ao mesmo tempo?
+    * [ ] Qual é a ação mais repetitiva que ele faz durante o monitoramento?
+    * [ ] Quando precisa configurar uma câmera, quais são os primeiros passos que ele toma?
+    * [ ] Anote o tempo que leva desde a identificação de um problema até a comunicação com a equipe de segurança.
+    * [ ] Ele parece confiante ao usar as ferramentas atuais ou precisa consultar anotações?
+    * [ ] Há algum alarme ou notificação visual/sonora? Como ele reage?
+
+ ### 3.3 Nome do instrumento: Sessão de Brainstorming.
+
+* Objetivo de Aplicação:
+  * Gerar rapidamente uma lista de funcionalidades desejadas para a nova plataforma.
+  * Entender as prioridades dos diferentes usuários de forma colaborativa.
+  * Promover um sentimento de participação e co-criação da ferramenta.
+
+* Explicar como aplicar:
+  * Reúna o grupo em uma sala com um quadro branco e post-its.
+  * O moderador explica o problema central e a regra principal: "Nenhuma ideia é ruim. O objetivo é quantidade, não qualidade neste momento".
+  * Siga o roteiro simples abaixo para guiar a sessão.
+
+* Instrumento: Roteiro/Agenda do Brainstorming
+  * Participantes: Um grupo misto de 3 a 5 pessoas, incluindo pelo menos um de cada persona (Carlos, Mariana e João).
+  1. Introdução e Apresentação do Problema (5 minutos)
+    * "Olá a todos, obrigado por virem. Hoje vamos fazer um exercício rápido e criativo. Como sabem, estamos projetando uma nova plataforma para integrar o monitoramento e a análise de dados. O problema que queremos resolver é: a informação está espalhada, os processos são manuais e a comunicação entre as equipes é lenta."
+
+  2. Geração de Ideias Individuais (10 minutos)
+    * "Agora, quero que cada um de vocês pense individualmente na seguinte pergunta: 'Se você tivesse uma varinha mágica para criar a ferramenta perfeita para o seu trabalho, o que ela faria por você?'"
+"Escrevam cada ideia em um post-it separado. Tentem escrever o máximo de ideias que conseguirem."
+
+  3. Compartilhamento e Agrupamento (20 minutos)
+    * "Ótimo. Agora, um de cada vez, por favor, leia suas ideias em voz alta e cole os post-its no quadro branco."
+    * (Enquanto eles colam, o moderador agrupa os post-its com ideias semelhantes em áreas do quadro, criando "grupos" como "Relatórios Automáticos", "Visualização de Câmeras", "Alertas", "Configuração Fácil").
+
+  4. Votação e Priorização (5 minutos)
+    * "Excelente! Temos muitas ideias boas aqui. Agora, vou dar a cada um de vocês 3 adesivos (ou 3 votos com uma caneta)."
+    * "Por favor, coloquem seus votos nas ideias ou grupos de ideias que vocês consideram mais importantes e urgentes."
+
+  5. Encerramento (5 minutos)
+    * "Perfeito. Com isso, já temos uma visão clara do que é mais importante para vocês. Este material é extremamente útil e vai guiar nosso projeto."
+    * "Muito obrigado pela participação e por todas as ótimas ideias!"
