@@ -59,24 +59,35 @@ Carlos precisa se preparar para a reunião de diretoria. **Ele abre o sistema em
 
 4) **Esquema Conceitual de Signos**
 
-> **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
+### 4) Esquema Conceitual de Signos
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
-| **signo** | **origem** | **observações** |
-| usuário | domínio |  |
-| senha | domínio |  |
+| Usuário do Sistema (US) - Credenciais e perfil de acesso ao sistema | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **signo** | **origem** | **observações** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** | **prevenção** / **recuperação** |
+| + id_usuario | aplicação | Identificador único no sistema. | texto | não pode ser nulo, único | gerado automaticamente | N/A |
+| nome | domínio | Nome completo do funcionário. | texto | não pode ser nulo | — | **PP:** campo obrigatório / **RA** |
+| email_login | domínio | E-mail corporativo usado para login. | texto | não pode ser nulo, formato de e-mail | — | **PP+PA:** validação de formato de e-mail / **RA** |
+| perfil_acesso | domínio | Define as permissões do usuário. | seleção simples | {Administrador, Analista, Operador} | — | **PA:** botão "Salvar" desabilitado se não for selecionado / **RA** |
+| senha | aplicação | Credencial de acesso criptografada. | texto | não pode ser nulo, mínimo 8 caracteres | — | **PP:** campo obrigatório com regras de complexidade / **RA** |
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |  |
-| :---- | :---- | :---- | :---- |
-| **signo** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** |
-| usuário | texto | não pode ser nulo | — |
-| senha | texto | não pode ser nulo | — |
+| Câmera (CAM) - Dispositivo de captura de imagem instalado nas estações | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **signo** | **origem** | **observações** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** | **prevenção** / **recuperação** |
+| + id_camera | domínio | Identificador único do equipamento (ex: SEC-01-A). | texto | não pode ser nulo, único | — | **PP:** campo obrigatório / **RA:** informa se o ID já existe |
+| localizacao | domínio | Descrição física da posição da câmera (ex: Plataforma 1, sentido Jabaquara). | texto | não pode ser nulo | — | **PP:** campo obrigatório / **RA** |
+| estacao | domínio | Estação do Metrô onde está instalada. | seleção simples | não pode ser nulo | — | **PA:** uma opção deve ser selecionada de uma lista pré-definida / **RA** |
+| status | aplicação | Indica se a câmera está ativa e transmitindo. | texto | {Online, Offline, Em Manutenção} | Offline | **PA:** status é atualizado automaticamente pelo sistema |
+| feed_video | aplicação | Fluxo de vídeo em tempo real. | vídeo | N/A | N/A | **CE:** exibe mensagem se o feed não puder ser carregado |
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
-| **signo** | **prevenção** | **recuperação** |
-| usuário | PP: campo obrigatório | RA |
-| senha | PP campo obrigatório  | RA |
+| Relatório de Fluxo (RF) - Análise de dados de fluxo de passageiros | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **signo** | **origem** | **observações** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** | **prevenção** / **recuperação** |
+| + id_relatorio | aplicação | Identificador único do relatório. | texto | não pode ser nulo, único | gerado automaticamente | N/A |
+| titulo | domínio | Nome do relatório definido pelo analista. | texto | não pode ser nulo | "Relatório sem título" | **PP:** campo obrigatório / **RA** |
+| data_inicio | domínio | Data de início do período de análise. | data | não pode ser nulo | data atual - 7 dias | **PP+PA:** seletor de calendário / **RA** |
+| data_fim | domínio | Data de fim do período de análise. | data | não pode ser nulo, ≥ data_inicio | data atual | **PP+PA:** seletor de calendário / **RA** |
+| filtros_aplicados | domínio | Lista de filtros (estações, linhas, horários). | lista de texto | deve conter ao menos uma estação/linha | — | **PA:** botão "Gerar" desabilitado se filtros essenciais não forem preenchidos / **RA** |
+| status_geracao | aplicação | Indica o progresso da análise. | texto | {Em Andamento, Concluído, Falha} | — | **PA:** status atualizado automaticamente |
+
 
 
