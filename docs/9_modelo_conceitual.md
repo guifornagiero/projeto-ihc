@@ -31,28 +31,28 @@ Carlos precisa se preparar para a reunião de diretoria. **Ele abre o sistema em
 | :---- | :---- |
 | Criar análise de dados | U: Preciso analisar o fluxo de passageiros da Linha 3-Vermelha no último trimestre. |
 | > Filtrar e visualizar dados | D: Aqui estão os dados consolidados para o período e linha solicitados. Você pode arrastar as métricas para criar seus gráficos. |
-| > Exportar resultado | U: A análise está pronta. Quero exportar um relatório para a diretoria.
-  D: Relatório em PDF gerado com sucesso. O download está disponível.  |
+| > Exportar resultado | U: A análise está pronta. Quero exportar um relatório para a diretoria. <br> D: Relatório em PDF gerado com sucesso. O download está disponível. |
 
-**Nome do Cenário: XXXXXX**
 
-| tópico \> subtópico (diálogo) | falas e signos |
-| :---- | :---- |
-|  | U: Preciso … |
-| \>  | U: Quero … D: Aqui está o mapa |
-|  | U:  |
-|  | U:  |
-|  | D: Aqui está a informação filtrada |
-
-**Nome do Cenário: XXXXXX**
+**Nome do Cenário: Monitoramento e Configuração (João)**
 
 | tópico \> subtópico (diálogo) | falas e signos |
 | :---- | :---- |
-|  | U: Preciso … |
-| \>  | U: Quero … D: Aqui está o mapa |
-|  | U:  |
-|  | U:  |
-|  | D: Aqui está a informação filtrada |
+| Monitorar estação | U: Preciso ver todas as câmeras da Estação Sé agora. |
+| > Visualizar câmeras | D: Exibindo o feed ao vivo de todas as 12 câmeras da Estação Sé. |
+| Adicionar dispositivo | U: Quero adicionar uma nova câmera ao sistema. |
+| > Configurar câmera | D: Por favor, preencha o formulário com os dados da câmera. |
+| > Confirmar configuração | U: Salvei as informações. <br> D: Câmera adicionada com sucesso. O status é "Online" e o feed está ativo.|
+
+**Nome do Cenário: Tomada de Decisão Estratégica (Administrador Carlos)**
+
+| tópico \> subtópico (diálogo) | falas e signos |
+| :---- | :---- |
+| Acompanhar desempenho e tomar decisões | U: (Ao fazer login) Preciso de uma visão geral do status da operação. |
+| > Visualizar status geral  |D: Bem-vindo, Carlos. O relatório de fluxo da Linha 3-Vermelha está "Concluído". Os indicadores de segurança estão atualizados em tempo real no painel. |
+| > Acessar relatório específico | U: Quero visualizar o relatório de fluxo que a Mariana preparou. <br> D: Exibindo o relatório "Comparativo de Fluxo - Sé vs. Paraíso", com todos os gráficos e análises. |
+| > Analisar dados de segurança | U: Agora, mostre-me os resultados consolidados da equipe de segurança. <br> D: Aqui está o painel de segurança, com o número de ocorrências detectadas por estação e o tempo médio de resposta da equipe.  |
+| > Concluir análise | U: Certo. As informações são suficientes para a reunião. |
 
 3) **Mapa de Objetivos**
 > **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
@@ -78,4 +78,5 @@ Carlos precisa se preparar para a reunião de diretoria. **Ele abre o sistema em
 | **signo** | **prevenção** | **recuperação** |
 | usuário | PP: campo obrigatório | RA |
 | senha | PP campo obrigatório  | RA |
+
 
