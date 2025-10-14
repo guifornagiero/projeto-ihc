@@ -55,7 +55,7 @@ Carlos precisa se preparar para a reunião de diretoria. **Ele abre o sistema em
 | > Concluir análise | U: Certo. As informações são suficientes para a reunião. |
 
 3) **Mapa de Objetivos**
-> **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
+![entrega9-f](https://github.com/user-attachments/assets/7b6abc27-41ed-4e96-9dc9-b1035da200f2)
 
 4) **Esquema Conceitual de Signos**
 
@@ -88,6 +88,7 @@ Carlos precisa se preparar para a reunião de diretoria. **Ele abre o sistema em
 | data_fim | domínio | Data de fim do período de análise. | data | não pode ser nulo, ≥ data_inicio | data atual | **PP+PA:** seletor de calendário / **RA** |
 | filtros_aplicados | domínio | Lista de filtros (estações, linhas, horários). | lista de texto | deve conter ao menos uma estação/linha | — | **PA:** botão "Gerar" desabilitado se filtros essenciais não forem preenchidos / **RA** |
 | status_geracao | aplicação | Indica o progresso da análise. | texto | {Em Andamento, Concluído, Falha} | — | **PA:** status atualizado automaticamente |
+
 
 
 
