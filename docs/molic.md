@@ -9,6 +9,8 @@
 ## 4. Consultar histórico de ações de usuário
 ![Diagrama sem nome (17)](https://github.com/user-attachments/assets/8c591135-b329-40d0-abba-806dc0b8a7f4)
 ## 5. Consultar Logs de Câmera
+![Diagrama sem nome (18)](https://github.com/user-attachments/assets/a5bc0fcb-6b2b-4b65-afe4-39e80f72a770)
+
 
 
 
