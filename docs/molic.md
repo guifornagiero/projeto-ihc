@@ -5,6 +5,8 @@
 ## 2. Cadastro de Câmera
 ![Diagrama sem nome (14)](https://github.com/user-attachments/assets/2d279021-6598-48cb-a697-7caa1a260370)
 ## 3. Gerar Relatório de Fluxo de Passageiros
+![Diagrama sem nome (16)](https://github.com/user-attachments/assets/207d39c0-0424-46df-bd24-3020632da0d6)
 ## 4. Consultar histórico de ações de usuário
 ## 5. Consultar Logs de Câmera
+
 
