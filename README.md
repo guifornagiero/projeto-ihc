@@ -52,7 +52,7 @@ A idealização do projeto (somente o sistema distribuído em larga escala, e a 
 - [Coleta de Dados](docs/7_coleta_dados.md)
 - [Ciclo de vida da engenharia de usabilidade](docs/8_ciclo_vida.md)
 - [Modelo Conceitual](docs/9_modelo_conceitual.md) 
-- [MOLIC]()
+- [MOLIC](docs/molic.md)
 - [FIGMA]()
 - [Planejamento da Avaliação]()
 - [Avaliação de IHC através de Inspeção Heurística]()
