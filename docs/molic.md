@@ -7,6 +7,8 @@
 ## 3. Gerar Relatório de Fluxo de Passageiros
 ![Diagrama sem nome (16)](https://github.com/user-attachments/assets/207d39c0-0424-46df-bd24-3020632da0d6)
 ## 4. Consultar histórico de ações de usuário
+![Diagrama sem nome (17)](https://github.com/user-attachments/assets/8c591135-b329-40d0-abba-806dc0b8a7f4)
 ## 5. Consultar Logs de Câmera
+
 
 
