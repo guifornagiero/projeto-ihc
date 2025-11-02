@@ -1,6 +1,6 @@
 1) **Tela de Login**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/81bcd822-400d-4acd-af11-3d80a25b0248" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/540d4700-a3d8-4a81-8407-47c32d4a422a" />
 
 2) **Menu Principal**
 
@@ -8,11 +8,11 @@
 
 3) **Tela de Monitoramento**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/44cca533-1bed-44d0-b5aa-f731ba4d2567" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/913abfc3-8088-42a8-a7cb-bd2491a18431" />
 
-4) **Tela de Reconhecimento**
+4) **Tela de Reconhecimento (Gestão)**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/46f63f84-fbb8-4b09-b5dc-2b96cfd37cdb" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/81f3bc7c-5d12-4e9f-b72b-f82780eee5b9" />
 
 5) **Tela de Alertas**
 
@@ -20,12 +20,30 @@
 
 6) **Tela de Alertas (Gerar alerta de segurança)**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/ae8bc0d0-7535-4e7e-9221-12b470d2d456" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/ddf997b9-02dc-4e93-972c-167913858d25" />
 
 7) **Perfil**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/6c7885e5-aedd-4226-a2c7-f0c031c8cca2" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/171a5e1c-81b9-4330-82a0-b2f59fc080fe" />
 
-8) **Configurações**
+8) **Perfil (Resetar senha)**
 
-<img width="1206" height="678" alt="image" src="https://github.com/user-attachments/assets/d5b36f58-d2b1-4f19-bc9e-8bdc31a78903" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/816907ce-5fee-46f5-b2ba-a66777f49b84" />
+
+9) **Configurações**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/598e518c-373b-4d7f-b828-30c7911a3485" />
+
+10) **Configurações (Usuários)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/acb18527-bac4-4da7-9bba-a572172757a6" />
+
+11) **Configurações (Usuários/Gerenciar Usuários)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/f463f8ec-d424-4780-80ca-3656613bc327" />
+
+12) **Configurações (Usuários/Gerenciar Usuários/Cadastrar Usuário)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/3e6b1ccb-3dd8-4f71-803c-0e5e82aab86f" />
+
+13) 
