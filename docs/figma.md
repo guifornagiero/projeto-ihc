@@ -14,36 +14,44 @@
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/81f3bc7c-5d12-4e9f-b72b-f82780eee5b9" />
 
-5) **Tela de Alertas**
+5) **Gestão (Gerar Relatório de Fluxo)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/935a1d7a-892e-4573-b800-d45050eaf865" />
+
+6) **Gestão (Visualizar Relatório)**
+   
+<img width="1227" height="689" alt="image" src="https://github.com/user-attachments/assets/bd6d76dc-af16-4193-b615-1bad71bfddbc" />
+
+7) **Tela de Alertas**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/c20f73f1-1896-495b-8b8d-5c2eecd33f52" />
 
-6) **Tela de Alertas (Gerar alerta de segurança)**
+8) **Tela de Alertas (Gerar alerta de segurança)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/ddf997b9-02dc-4e93-972c-167913858d25" />
 
-7) **Perfil**
+9) **Perfil**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/171a5e1c-81b9-4330-82a0-b2f59fc080fe" />
 
-8) **Perfil (Resetar senha)**
+10) **Perfil (Resetar senha)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/816907ce-5fee-46f5-b2ba-a66777f49b84" />
 
-9) **Configurações**
+11) **Configurações**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/598e518c-373b-4d7f-b828-30c7911a3485" />
 
-10) **Configurações (Usuários)**
+12) **Configurações (Usuários)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/acb18527-bac4-4da7-9bba-a572172757a6" />
 
-11) **Configurações (Usuários/Gerenciar Usuários)**
+13) **Configurações (Usuários/Gerenciar Usuários)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/f463f8ec-d424-4780-80ca-3656613bc327" />
 
-12) **Configurações (Usuários/Gerenciar Usuários/Cadastrar Usuário)**
+14) **Configurações (Usuários/Gerenciar Usuários/Cadastrar Usuário)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/3e6b1ccb-3dd8-4f71-803c-0e5e82aab86f" />
 
-13) 
+
