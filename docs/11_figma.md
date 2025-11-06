@@ -12,7 +12,7 @@
 
 4) **Tela de Reconhecimento (Gestão)**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/81f3bc7c-5d12-4e9f-b72b-f82780eee5b9" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/ad531ac2-bd6e-4ce2-b2c8-caa9be3afa3c" />
 
 5) **Gestão (Gerar Relatório de Fluxo)**
 
@@ -40,9 +40,9 @@
 
 11) **Configurações**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/598e518c-373b-4d7f-b828-30c7911a3485" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/4440b321-0a22-432f-aa35-9cabb033813f" />
 
-12) **Configurações (Usuários)**
+13) **Configurações (Usuários)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/acb18527-bac4-4da7-9bba-a572172757a6" />
 
@@ -53,5 +53,6 @@
 14) **Configurações (Usuários/Gerenciar Usuários/Cadastrar Usuário)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/3e6b1ccb-3dd8-4f71-803c-0e5e82aab86f" />
+
 
 
