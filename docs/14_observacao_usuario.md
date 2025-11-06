@@ -94,6 +94,7 @@
     * **Me senti confiante usando o sistema (1-5):** 3 (Neutro)
     * **O que foi mais difícil?** "Eu tentei cadastrar um ID que já tinha, e o sistema deu um erro `[SR] d: Erro: ID já cadastrado`. Foi bom, mas eu tive que apagar tudo e começar de novo. Podia só limpar o campo do ID."
     * **O que mudaria?** "Quando der um erro, não limpar o formulário todo, só o campo que deu problema."
+---
 
 **Conclusão da avaliação por observação do usuário:**
 
@@ -110,3 +111,4 @@
     1.  **Mensagens de Erro Ineficazes:** O erro `[SR] d: Erro: Datas são obrigatórias` no MOLIC `Gerar Relatório de Fluxo` se mostrou genérico e não ajudou os usuários (P01 e P04) a se recuperarem, violando o princípio de "Projeto para Erros".
     2.  **Baixa Visibilidade:** Ambos os analistas (P01 e P04) tiveram dificuldade em localizar o botão "Exportar Relatório" após a geração do gráfico, indicando uma falha no princípio de "Visibilidade e Reconhecimento".
     3.  **Recuperação de Erro Frustrante:** O Operador P05, ao receber o erro `[SR] d: Erro: ID já cadastrado`, teve o formulário inteiro limpo, aumentando seu retrabalho.
+
