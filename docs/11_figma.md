@@ -54,5 +54,14 @@
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/3e6b1ccb-3dd8-4f71-803c-0e5e82aab86f" />
 
+15) **Configurações (Gerenciar Dispositivos)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/1303e832-6681-41d9-829c-83a03f7c22d6" />
+
+16) **Configurações (Gerenciar Dispositivos/Adicionar Câmera)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/9eaf5023-c747-477e-ae2e-6c3401c0ad34" />
+
+
 
 
