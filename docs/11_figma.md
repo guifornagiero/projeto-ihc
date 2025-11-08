@@ -4,11 +4,11 @@
 
 2) **Menu Principal**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/f6dda26a-81e7-4c4f-9e21-439edbfbd60a" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/81dcef5e-3e9d-4996-990f-fd8cf0dde4c8" />
 
 3) **Tela de Monitoramento**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/913abfc3-8088-42a8-a7cb-bd2491a18431" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/59c01e62-c63f-417e-a130-c5961556794e" />
 
 4) **Tela de Reconhecimento (Gestão)**
 
@@ -20,7 +20,7 @@
 
 6) **Gestão (Visualizar Relatório)**
    
-<img width="1227" height="689" alt="image" src="https://github.com/user-attachments/assets/bd6d76dc-af16-4193-b615-1bad71bfddbc" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/644ed8b5-5907-47d5-a09f-ddaaf523d243" />
 
 7) **Tela de Alertas**
 
@@ -61,6 +61,22 @@
 16) **Configurações (Gerenciar Dispositivos/Adicionar Câmera)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/9eaf5023-c747-477e-ae2e-6c3401c0ad34" />
+
+17) **Configurações (Gerenciar Dispositivos/Editar Câmera)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/3391309d-d161-4221-b5b2-cebb83c76ef1" />
+
+18) **Administração**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/c6c70c9b-c21c-4c9b-bd96-e0f3313f2c22" />
+
+19) **Administração (Logs de usuário)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/23d04abd-57d4-4c61-8d7d-eb5b004aea94" />
+
+20) **Administração (Logs de usuário/Visualizar relatório)**
+
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/538650b7-8fc3-4dc0-b7bc-fd78c49916c1" />
 
 
 
