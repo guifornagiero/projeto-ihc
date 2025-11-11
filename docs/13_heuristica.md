@@ -52,7 +52,7 @@ As avaliações foram realizadas sobre **protótipos desenvolvidos no Figma**, a
 A análise revelou que, embora haja consenso em algumas heurísticas — como **visibilidade do status do sistema** e **prevenção de erros** —, existem divergências relevantes em outras.
 
 - **Rocha** destacou problemas de segurança e controle de acesso, atribuindo severidade alta à liberdade do usuário.  
-- **John** foi mais crítico quanto à ausência de mensagens de erro detalhadas e à falta de documentação.  
+- **Gian** foi mais crítico quanto à ausência de mensagens de erro detalhadas e à falta de documentação.  
 - **Paulo** apontou limitações de navegação e ausência de suporte ao usuário.
 
 ### 🚨 Heurísticas mais problemáticas segundo os avaliadores:
@@ -61,3 +61,4 @@ A análise revelou que, embora haja consenso em algumas heurísticas — como **
 - Ajuda e documentação  
 
 > 🔧 **Próximos passos:** Priorizar melhorias nessas áreas para aumentar a **usabilidade e a satisfação do usuário**.
+
