@@ -62,3 +62,4 @@ A análise revelou que, embora haja consenso em algumas heurísticas — como **
 
 > 🔧 **Próximos passos:** Priorizar melhorias nessas áreas para aumentar a **usabilidade e a satisfação do usuário**.
 
+
