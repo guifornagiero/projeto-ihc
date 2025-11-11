@@ -76,11 +76,12 @@
 
 20) **Administração (Logs de usuário)**
 
-<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/23d04abd-57d4-4c61-8d7d-eb5b004aea94" />
+<img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/9d59555b-3c1a-4bd7-b3c3-ccd011a314fa" />
 
 21) **Administração (Logs de usuário/Visualizar relatório)**
 
 <img width="1290" height="720" alt="image" src="https://github.com/user-attachments/assets/538650b7-8fc3-4dc0-b7bc-fd78c49916c1" />
+
 
 
 
