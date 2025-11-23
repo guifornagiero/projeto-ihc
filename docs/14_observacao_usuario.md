@@ -23,7 +23,7 @@
 | **1 (P04 - Analista)** | Sucesso Total | 2 | (1) Recuperação (erro de data), (1) Compreensão (botão exportar) | 2 min 15 seg | Insatisfeito |
 | **2 (P05 - Operador)** | Sucesso Parcial | 1 | (1) Falha (Tentou salvar com ID duplicado, erro [SR] 'ID já cadastrado') | 2 min 05 seg | Neutro |
 
-**Links dos vídeos:**
+**Links dos vídeos:** https://youtu.be/G2DB18q2k2Q 
 
 **Respostas do Formulário do Usuário:**
 
@@ -111,4 +111,5 @@
     1.  **Mensagens de Erro Ineficazes:** O erro `[SR] d: Erro: Datas são obrigatórias` no MOLIC `Gerar Relatório de Fluxo` se mostrou genérico e não ajudou os usuários (P01 e P04) a se recuperarem, violando o princípio de "Projeto para Erros".
     2.  **Baixa Visibilidade:** Ambos os analistas (P01 e P04) tiveram dificuldade em localizar o botão "Exportar Relatório" após a geração do gráfico, indicando uma falha no princípio de "Visibilidade e Reconhecimento".
     3.  **Recuperação de Erro Frustrante:** O Operador P05, ao receber o erro `[SR] d: Erro: ID já cadastrado`, teve o formulário inteiro limpo, aumentando seu retrabalho.
+
 
