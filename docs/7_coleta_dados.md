@@ -25,7 +25,7 @@
   * Valor percebido: O que eles consideram mais valioso em um sistema de interface: agilidade, precisão dos dados, facilidade de uso, capacidade de personalização?
 
 ### De quem coletar?
-Os dados devem ser coletados primariamente dos usuários finais do sistema, que são as três personas muito bem definidas no seu projeto:
+Os dados devem ser coletados primariamente dos usuários finais do sistema, que são as três personas muito bem definidas no projeto:
 
  * Administrador do Metrô (Carlos): Para entender as necessidades estratégicas, a importância dos relatórios consolidados e a visão gerencial.
  * Analista de Dados do Metrô (Mariana): Para compreender as necessidades técnicas de manipulação de dados, personalização de dashboards e exportação de informações.
@@ -123,4 +123,5 @@ Sim, o projeto deverá considerar aspectos éticos de forma rigorosa. Qualquer p
   5. Encerramento (5 minutos)
      * "Perfeito. Com isso, já temos uma visão clara do que é mais importante para vocês. Este material é extremamente útil e vai guiar nosso projeto."
      * "Muito obrigado pela participação e por todas as ótimas ideias!"
+
 
